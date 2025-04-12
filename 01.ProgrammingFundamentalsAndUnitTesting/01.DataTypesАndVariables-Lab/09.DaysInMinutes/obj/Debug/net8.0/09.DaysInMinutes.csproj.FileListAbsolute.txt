@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\bin\Debug\net8.0\09.DaysInMinutes.exe
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\bin\Debug\net8.0\09.DaysInMinutes.deps.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\bin\Debug\net8.0\09.DaysInMinutes.runtimeconfig.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\bin\Debug\net8.0\09.DaysInMinutes.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\bin\Debug\net8.0\09.DaysInMinutes.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\obj\Debug\net8.0\09.DaysInMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\obj\Debug\net8.0\09.DaysInMinutes.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\obj\Debug\net8.0\09.DaysInMinutes.AssemblyInfo.cs
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\obj\Debug\net8.0\09.DaysInMinutes.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\obj\Debug\net8.0\09.DaysInMinutes.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\obj\Debug\net8.0\refint\09.DaysInMinutes.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\obj\Debug\net8.0\09.DaysInMinutes.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\obj\Debug\net8.0\09.DaysInMinutes.genruntimeconfig.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\09.DaysInMinutes\obj\Debug\net8.0\ref\09.DaysInMinutes.dll

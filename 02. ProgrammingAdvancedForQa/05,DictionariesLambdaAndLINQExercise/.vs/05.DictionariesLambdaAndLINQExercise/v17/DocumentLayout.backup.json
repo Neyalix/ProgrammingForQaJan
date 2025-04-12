@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\05,DictionariesLambdaAndLINQExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C24DA5-DBE0-49CC-9562-136C6E177057}|04.SoftUniParking\\04.SoftUniParking.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\05,dictionarieslambdaandlinqexercise\\04.softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C24DA5-DBE0-49CC-9562-136C6E177057}|04.SoftUniParking\\04.SoftUniParking.csproj|solutionrelative:04.softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBB92C2-3331-43E2-8763-CD056F7ACC28}|03.Orders\\03.Orders.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\05,dictionarieslambdaandlinqexercise\\03.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBB92C2-3331-43E2-8763-CD056F7ACC28}|03.Orders\\03.Orders.csproj|solutionrelative:03.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB076C2-B6FD-45DA-8BE5-86EB3CFD742C}|02.AMinerTask\\02.AMinerTask.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\05,dictionarieslambdaandlinqexercise\\02.aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB076C2-B6FD-45DA-8BE5-86EB3CFD742C}|02.AMinerTask\\02.AMinerTask.csproj|solutionrelative:02.aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C61FF4-35B9-4D26-BB9E-500B95DF0EEA}|01.CountCharsInAString\\01.CountCharsInAString.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\05,dictionarieslambdaandlinqexercise\\01.countcharsinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C61FF4-35B9-4D26-BB9E-500B95DF0EEA}|01.CountCharsInAString\\01.CountCharsInAString.csproj|solutionrelative:01.countcharsinastring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\05,DictionariesLambdaAndLINQExercise\\04.SoftUniParking\\Program.cs",
+              "RelativeDocumentMoniker": "04.SoftUniParking\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\05,DictionariesLambdaAndLINQExercise\\04.SoftUniParking\\Program.cs*",
+              "RelativeToolTip": "04.SoftUniParking\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:12:58.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\05,DictionariesLambdaAndLINQExercise\\03.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "03.Orders\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\05,DictionariesLambdaAndLINQExercise\\03.Orders\\Program.cs",
+              "RelativeToolTip": "03.Orders\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:24:28.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\05,DictionariesLambdaAndLINQExercise\\02.AMinerTask\\Program.cs",
+              "RelativeDocumentMoniker": "02.AMinerTask\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\05,DictionariesLambdaAndLINQExercise\\02.AMinerTask\\Program.cs",
+              "RelativeToolTip": "02.AMinerTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:50:16.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\05,DictionariesLambdaAndLINQExercise\\01.CountCharsInAString\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountCharsInAString\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\05,DictionariesLambdaAndLINQExercise\\01.CountCharsInAString\\Program.cs",
+              "RelativeToolTip": "01.CountCharsInAString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:34:14.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

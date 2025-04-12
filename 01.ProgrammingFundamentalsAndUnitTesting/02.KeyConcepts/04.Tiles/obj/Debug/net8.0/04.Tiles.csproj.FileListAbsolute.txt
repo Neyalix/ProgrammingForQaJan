@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\bin\Debug\net8.0\04.Tiles.exe
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\bin\Debug\net8.0\04.Tiles.deps.json
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\bin\Debug\net8.0\04.Tiles.runtimeconfig.json
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\bin\Debug\net8.0\04.Tiles.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\bin\Debug\net8.0\04.Tiles.pdb
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\obj\Debug\net8.0\04.Tiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\obj\Debug\net8.0\04.Tiles.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\obj\Debug\net8.0\04.Tiles.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\obj\Debug\net8.0\04.Tiles.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\obj\Debug\net8.0\04.Tiles.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\obj\Debug\net8.0\refint\04.Tiles.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\obj\Debug\net8.0\04.Tiles.pdb
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\obj\Debug\net8.0\04.Tiles.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\04.Tiles\obj\Debug\net8.0\ref\04.Tiles.dll

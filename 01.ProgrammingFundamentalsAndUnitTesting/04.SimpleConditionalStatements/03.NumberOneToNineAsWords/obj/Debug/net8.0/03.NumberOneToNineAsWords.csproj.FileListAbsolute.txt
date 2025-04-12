@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\bin\Debug\net8.0\03.NumberOneToNineAsWords.exe
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\bin\Debug\net8.0\03.NumberOneToNineAsWords.deps.json
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\bin\Debug\net8.0\03.NumberOneToNineAsWords.runtimeconfig.json
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\bin\Debug\net8.0\03.NumberOneToNineAsWords.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\bin\Debug\net8.0\03.NumberOneToNineAsWords.pdb
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\obj\Debug\net8.0\03.NumberOneToNineAsWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\obj\Debug\net8.0\03.NumberOneToNineAsWords.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\obj\Debug\net8.0\03.NumberOneToNineAsWords.AssemblyInfo.cs
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\obj\Debug\net8.0\03.NumberOneToNineAsWords.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\obj\Debug\net8.0\03.NumberOneToNineAsWords.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\obj\Debug\net8.0\refint\03.NumberOneToNineAsWords.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\obj\Debug\net8.0\03.NumberOneToNineAsWords.pdb
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\obj\Debug\net8.0\03.NumberOneToNineAsWords.genruntimeconfig.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\03.NumberOneToNineAsWords\obj\Debug\net8.0\ref\03.NumberOneToNineAsWords.dll

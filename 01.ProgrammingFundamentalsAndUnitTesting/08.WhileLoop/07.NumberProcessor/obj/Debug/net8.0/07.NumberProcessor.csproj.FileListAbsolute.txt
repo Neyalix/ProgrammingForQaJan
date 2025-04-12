@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\bin\Debug\net8.0\07.NumberProcessor.exe
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\bin\Debug\net8.0\07.NumberProcessor.deps.json
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\bin\Debug\net8.0\07.NumberProcessor.runtimeconfig.json
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\bin\Debug\net8.0\07.NumberProcessor.dll
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\bin\Debug\net8.0\07.NumberProcessor.pdb
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.AssemblyInfo.cs
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.dll
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\obj\Debug\net8.0\refint\07.NumberProcessor.dll
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.pdb
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\obj\Debug\net8.0\07.NumberProcessor.genruntimeconfig.cache
+C:\ProgrammingForQaJan\08.WhileLoop\07.NumberProcessor\obj\Debug\net8.0\ref\07.NumberProcessor.dll

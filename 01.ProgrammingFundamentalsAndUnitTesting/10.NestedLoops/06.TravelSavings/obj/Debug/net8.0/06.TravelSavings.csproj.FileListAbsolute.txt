@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\bin\Debug\net8.0\06.TravelSavings.exe
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\bin\Debug\net8.0\06.TravelSavings.deps.json
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\bin\Debug\net8.0\06.TravelSavings.runtimeconfig.json
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\bin\Debug\net8.0\06.TravelSavings.dll
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\bin\Debug\net8.0\06.TravelSavings.pdb
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.AssemblyInfo.cs
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.dll
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\obj\Debug\net8.0\refint\06.TravelSavings.dll
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.pdb
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\obj\Debug\net8.0\06.TravelSavings.genruntimeconfig.cache
+C:\ProgrammingForQaJan\10.NestedLoops\06.TravelSavings\obj\Debug\net8.0\ref\06.TravelSavings.dll

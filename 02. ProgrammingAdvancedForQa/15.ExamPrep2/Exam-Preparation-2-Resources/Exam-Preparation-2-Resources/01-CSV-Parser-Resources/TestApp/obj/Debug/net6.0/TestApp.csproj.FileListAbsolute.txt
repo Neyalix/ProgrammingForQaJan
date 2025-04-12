@@ -1,0 +1,11 @@
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\15.ExamPrep2\Exam-Preparation-2-Resources\Exam-Preparation-2-Resources\01-CSV-Parser-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\15.ExamPrep2\Exam-Preparation-2-Resources\Exam-Preparation-2-Resources\01-CSV-Parser-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\15.ExamPrep2\Exam-Preparation-2-Resources\Exam-Preparation-2-Resources\01-CSV-Parser-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\15.ExamPrep2\Exam-Preparation-2-Resources\Exam-Preparation-2-Resources\01-CSV-Parser-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\15.ExamPrep2\Exam-Preparation-2-Resources\Exam-Preparation-2-Resources\01-CSV-Parser-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\15.ExamPrep2\Exam-Preparation-2-Resources\Exam-Preparation-2-Resources\01-CSV-Parser-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\15.ExamPrep2\Exam-Preparation-2-Resources\Exam-Preparation-2-Resources\01-CSV-Parser-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\15.ExamPrep2\Exam-Preparation-2-Resources\Exam-Preparation-2-Resources\01-CSV-Parser-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\15.ExamPrep2\Exam-Preparation-2-Resources\Exam-Preparation-2-Resources\01-CSV-Parser-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\15.ExamPrep2\Exam-Preparation-2-Resources\Exam-Preparation-2-Resources\01-CSV-Parser-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\15.ExamPrep2\Exam-Preparation-2-Resources\Exam-Preparation-2-Resources\01-CSV-Parser-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll

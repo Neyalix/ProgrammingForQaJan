@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\bin\Debug\net8.0\01.WaterConsumption.exe
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\bin\Debug\net8.0\01.WaterConsumption.deps.json
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\bin\Debug\net8.0\01.WaterConsumption.runtimeconfig.json
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\bin\Debug\net8.0\01.WaterConsumption.dll
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\bin\Debug\net8.0\01.WaterConsumption.pdb
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\obj\Debug\net8.0\01.WaterConsumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\obj\Debug\net8.0\01.WaterConsumption.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\obj\Debug\net8.0\01.WaterConsumption.AssemblyInfo.cs
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\obj\Debug\net8.0\01.WaterConsumption.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\obj\Debug\net8.0\01.WaterConsumption.dll
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\obj\Debug\net8.0\refint\01.WaterConsumption.dll
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\obj\Debug\net8.0\01.WaterConsumption.pdb
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\obj\Debug\net8.0\01.WaterConsumption.genruntimeconfig.cache
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\01.Problem\obj\Debug\net8.0\ref\01.WaterConsumption.dll

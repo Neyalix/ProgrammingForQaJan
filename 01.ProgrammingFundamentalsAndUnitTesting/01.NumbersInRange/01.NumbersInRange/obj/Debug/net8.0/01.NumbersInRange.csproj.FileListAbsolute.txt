@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.AssemblyInfo.cs
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.exe
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.deps.json
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.runtimeconfig.json
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.pdb
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\obj\Debug\net8.0\refint\01.NumbersInRange.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.pdb
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.genruntimeconfig.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\01.NumbersInRange\obj\Debug\net8.0\ref\01.NumbersInRange.dll

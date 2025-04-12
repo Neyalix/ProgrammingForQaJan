@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\bin\Debug\net8.0\01.Songs.exe
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\bin\Debug\net8.0\01.Songs.deps.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\bin\Debug\net8.0\01.Songs.runtimeconfig.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\bin\Debug\net8.0\01.Songs.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\bin\Debug\net8.0\01.Songs.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\obj\Debug\net8.0\01.Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\obj\Debug\net8.0\01.Songs.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\obj\Debug\net8.0\01.Songs.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\obj\Debug\net8.0\01.Songs.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\obj\Debug\net8.0\01.Songs.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\obj\Debug\net8.0\refint\01.Songs.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\obj\Debug\net8.0\01.Songs.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\obj\Debug\net8.0\01.Songs.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\01.Songs\obj\Debug\net8.0\ref\01.Songs.dll

@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\bin\Debug\net8.0\03.BiggestOfFiveNumbers.exe
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\bin\Debug\net8.0\03.BiggestOfFiveNumbers.deps.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\bin\Debug\net8.0\03.BiggestOfFiveNumbers.runtimeconfig.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\bin\Debug\net8.0\03.BiggestOfFiveNumbers.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\bin\Debug\net8.0\03.BiggestOfFiveNumbers.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\obj\Debug\net8.0\03.BiggestOfFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\obj\Debug\net8.0\03.BiggestOfFiveNumbers.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\obj\Debug\net8.0\03.BiggestOfFiveNumbers.AssemblyInfo.cs
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\obj\Debug\net8.0\03.BiggestOfFiveNumbers.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\obj\Debug\net8.0\03.BiggestOfFiveNumbers.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\obj\Debug\net8.0\refint\03.BiggestOfFiveNumbers.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\obj\Debug\net8.0\03.BiggestOfFiveNumbers.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\obj\Debug\net8.0\03.BiggestOfFiveNumbers.genruntimeconfig.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\03.BiggestOfFiveNumbers\obj\Debug\net8.0\ref\03.BiggestOfFiveNumbers.dll

@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\bin\Debug\net8.0\14.LoopsExPowerOfNumber.exe
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\bin\Debug\net8.0\14.LoopsExPowerOfNumber.deps.json
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\bin\Debug\net8.0\14.LoopsExPowerOfNumber.runtimeconfig.json
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\bin\Debug\net8.0\14.LoopsExPowerOfNumber.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\bin\Debug\net8.0\14.LoopsExPowerOfNumber.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\obj\Debug\net8.0\14.LoopsExPowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\obj\Debug\net8.0\14.LoopsExPowerOfNumber.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\obj\Debug\net8.0\14.LoopsExPowerOfNumber.AssemblyInfo.cs
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\obj\Debug\net8.0\14.LoopsExPowerOfNumber.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\obj\Debug\net8.0\14.LoopsExPowerOfNumber.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\obj\Debug\net8.0\refint\14.LoopsExPowerOfNumber.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\obj\Debug\net8.0\14.LoopsExPowerOfNumber.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\obj\Debug\net8.0\14.LoopsExPowerOfNumber.genruntimeconfig.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\14.LoopsExPowerOfNumber\obj\Debug\net8.0\ref\14.LoopsExPowerOfNumber.dll

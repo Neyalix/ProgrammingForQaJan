@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.exe
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.deps.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.runtimeconfig.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\obj\Debug\net8.0\refint\04.SoftUniParking.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\04.SoftUniParking\obj\Debug\net8.0\ref\04.SoftUniParking.dll

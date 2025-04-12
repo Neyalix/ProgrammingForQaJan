@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\bin\Debug\net8.0\05.DepositCalculator.exe
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\bin\Debug\net8.0\05.DepositCalculator.deps.json
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\bin\Debug\net8.0\05.DepositCalculator.runtimeconfig.json
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\bin\Debug\net8.0\05.DepositCalculator.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\bin\Debug\net8.0\05.DepositCalculator.pdb
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\obj\Debug\net8.0\05.DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\obj\Debug\net8.0\05.DepositCalculator.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\obj\Debug\net8.0\05.DepositCalculator.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\obj\Debug\net8.0\05.DepositCalculator.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\obj\Debug\net8.0\05.DepositCalculator.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\obj\Debug\net8.0\refint\05.DepositCalculator.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\obj\Debug\net8.0\05.DepositCalculator.pdb
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\obj\Debug\net8.0\05.DepositCalculator.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\05.DepositCalculator\obj\Debug\net8.0\ref\05.DepositCalculator.dll

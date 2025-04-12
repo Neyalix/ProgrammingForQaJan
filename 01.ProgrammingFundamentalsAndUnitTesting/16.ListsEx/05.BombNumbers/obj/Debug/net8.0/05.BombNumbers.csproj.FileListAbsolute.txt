@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.exe
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.deps.json
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.runtimeconfig.json
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.dll
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.pdb
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.AssemblyInfo.cs
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.dll
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\obj\Debug\net8.0\refint\05.BombNumbers.dll
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.pdb
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.genruntimeconfig.cache
+C:\ProgrammingForQaJan\16.ListsEx\05.BombNumbers\obj\Debug\net8.0\ref\05.BombNumbers.dll

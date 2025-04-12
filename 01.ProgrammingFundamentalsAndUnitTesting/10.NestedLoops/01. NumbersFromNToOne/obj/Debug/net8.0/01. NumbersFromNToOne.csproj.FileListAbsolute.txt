@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\bin\Debug\net8.0\01. NumbersFromNToOne.exe
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\bin\Debug\net8.0\01. NumbersFromNToOne.deps.json
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\bin\Debug\net8.0\01. NumbersFromNToOne.runtimeconfig.json
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\bin\Debug\net8.0\01. NumbersFromNToOne.dll
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\bin\Debug\net8.0\01. NumbersFromNToOne.pdb
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\obj\Debug\net8.0\01. NumbersFromNToOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\obj\Debug\net8.0\01. NumbersFromNToOne.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\obj\Debug\net8.0\01. NumbersFromNToOne.AssemblyInfo.cs
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\obj\Debug\net8.0\01. NumbersFromNToOne.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\obj\Debug\net8.0\01. NumbersFromNToOne.dll
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\obj\Debug\net8.0\refint\01. NumbersFromNToOne.dll
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\obj\Debug\net8.0\01. NumbersFromNToOne.pdb
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\obj\Debug\net8.0\01. NumbersFromNToOne.genruntimeconfig.cache
+C:\ProgrammingForQaJan\10.NestedLoops\01. NumbersFromNToOne\obj\Debug\net8.0\ref\01. NumbersFromNToOne.dll

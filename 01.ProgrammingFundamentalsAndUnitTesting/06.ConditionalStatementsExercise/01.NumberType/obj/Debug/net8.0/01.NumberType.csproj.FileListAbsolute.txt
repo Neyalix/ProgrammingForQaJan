@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\bin\Debug\net8.0\01.NumberType.exe
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\bin\Debug\net8.0\01.NumberType.deps.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\bin\Debug\net8.0\01.NumberType.runtimeconfig.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\bin\Debug\net8.0\01.NumberType.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\bin\Debug\net8.0\01.NumberType.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\obj\Debug\net8.0\01.NumberType.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\obj\Debug\net8.0\01.NumberType.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\obj\Debug\net8.0\01.NumberType.AssemblyInfo.cs
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\obj\Debug\net8.0\01.NumberType.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\obj\Debug\net8.0\01.NumberType.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\obj\Debug\net8.0\refint\01.NumberType.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\obj\Debug\net8.0\01.NumberType.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\obj\Debug\net8.0\01.NumberType.genruntimeconfig.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\01.NumberType\obj\Debug\net8.0\ref\01.NumberType.dll

@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\bin\Debug\net8.0\03.TriangleOfStars.exe
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\bin\Debug\net8.0\03.TriangleOfStars.deps.json
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\bin\Debug\net8.0\03.TriangleOfStars.runtimeconfig.json
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\bin\Debug\net8.0\03.TriangleOfStars.dll
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\bin\Debug\net8.0\03.TriangleOfStars.pdb
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.AssemblyInfo.cs
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.dll
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\obj\Debug\net8.0\refint\03.TriangleOfStars.dll
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.pdb
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.genruntimeconfig.cache
+C:\ProgrammingForQaJan\10.NestedLoops\03.TriangleOfStars\obj\Debug\net8.0\ref\03.TriangleOfStars.dll

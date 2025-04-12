@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\bin\Debug\net8.0\03.TeamworkProjects.exe
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\bin\Debug\net8.0\03.TeamworkProjects.deps.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\bin\Debug\net8.0\03.TeamworkProjects.runtimeconfig.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\bin\Debug\net8.0\03.TeamworkProjects.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\bin\Debug\net8.0\03.TeamworkProjects.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\obj\Debug\net8.0\03.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\obj\Debug\net8.0\03.TeamworkProjects.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\obj\Debug\net8.0\03.TeamworkProjects.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\obj\Debug\net8.0\03.TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\obj\Debug\net8.0\03.TeamworkProjects.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\obj\Debug\net8.0\refint\03.TeamworkProjects.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\obj\Debug\net8.0\03.TeamworkProjects.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\obj\Debug\net8.0\03.TeamworkProjects.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\07.ObjectsAndClassesExercise\03.TeamworkProjects\obj\Debug\net8.0\ref\03.TeamworkProjects.dll

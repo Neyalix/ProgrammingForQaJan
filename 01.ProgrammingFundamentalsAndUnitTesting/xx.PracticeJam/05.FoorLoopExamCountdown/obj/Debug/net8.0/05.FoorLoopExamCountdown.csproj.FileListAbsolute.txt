@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\bin\Debug\net8.0\05.FoorLoopExamCountdown.exe
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\bin\Debug\net8.0\05.FoorLoopExamCountdown.deps.json
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\bin\Debug\net8.0\05.FoorLoopExamCountdown.runtimeconfig.json
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\bin\Debug\net8.0\05.FoorLoopExamCountdown.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\bin\Debug\net8.0\05.FoorLoopExamCountdown.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\obj\Debug\net8.0\05.FoorLoopExamCountdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\obj\Debug\net8.0\05.FoorLoopExamCountdown.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\obj\Debug\net8.0\05.FoorLoopExamCountdown.AssemblyInfo.cs
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\obj\Debug\net8.0\05.FoorLoopExamCountdown.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\obj\Debug\net8.0\05.FoorLoopExamCountdown.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\obj\Debug\net8.0\refint\05.FoorLoopExamCountdown.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\obj\Debug\net8.0\05.FoorLoopExamCountdown.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\obj\Debug\net8.0\05.FoorLoopExamCountdown.genruntimeconfig.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\05.FoorLoopExamCountdown\obj\Debug\net8.0\ref\05.FoorLoopExamCountdown.dll

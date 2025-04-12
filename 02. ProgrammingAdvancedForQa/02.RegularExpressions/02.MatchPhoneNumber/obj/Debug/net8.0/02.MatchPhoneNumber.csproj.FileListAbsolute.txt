@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.exe
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.deps.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.runtimeconfig.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\refint\02.MatchPhoneNumber.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\02.RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\ref\02.MatchPhoneNumber.dll

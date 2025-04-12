@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.exe
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.deps.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.runtimeconfig.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\obj\Debug\net8.0\refint\04.TextFilter.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\04.TextFilter\obj\Debug\net8.0\ref\04.TextFilter.dll

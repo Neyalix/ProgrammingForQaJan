@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\bin\Debug\net8.0\04.Calculations.exe
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\bin\Debug\net8.0\04.Calculations.deps.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\bin\Debug\net8.0\04.Calculations.runtimeconfig.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\bin\Debug\net8.0\04.Calculations.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\bin\Debug\net8.0\04.Calculations.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\obj\Debug\net8.0\04.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\obj\Debug\net8.0\04.Calculations.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\obj\Debug\net8.0\04.Calculations.AssemblyInfo.cs
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\obj\Debug\net8.0\04.Calculations.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\obj\Debug\net8.0\04.Calculations.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\obj\Debug\net8.0\refint\04.Calculations.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\obj\Debug\net8.0\04.Calculations.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\obj\Debug\net8.0\04.Calculations.genruntimeconfig.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\04.Calculations\obj\Debug\net8.0\ref\04.Calculations.dll

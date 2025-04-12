@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\bin\Debug\net8.0\00.Demo.exe
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\bin\Debug\net8.0\00.Demo.deps.json
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\bin\Debug\net8.0\00.Demo.runtimeconfig.json
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\bin\Debug\net8.0\00.Demo.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\bin\Debug\net8.0\00.Demo.pdb
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\obj\Debug\net8.0\00.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\obj\Debug\net8.0\00.Demo.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\obj\Debug\net8.0\00.Demo.AssemblyInfo.cs
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\obj\Debug\net8.0\00.Demo.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\obj\Debug\net8.0\00.Demo.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\obj\Debug\net8.0\refint\00.Demo.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\obj\Debug\net8.0\00.Demo.pdb
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\obj\Debug\net8.0\00.Demo.genruntimeconfig.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\00.Demo\obj\Debug\net8.0\ref\00.Demo.dll

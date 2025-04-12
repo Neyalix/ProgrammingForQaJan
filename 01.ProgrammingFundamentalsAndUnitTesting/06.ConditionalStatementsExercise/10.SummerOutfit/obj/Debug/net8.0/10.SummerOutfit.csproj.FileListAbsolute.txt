@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\bin\Debug\net8.0\10.SummerOutfit.exe
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\bin\Debug\net8.0\10.SummerOutfit.deps.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\bin\Debug\net8.0\10.SummerOutfit.runtimeconfig.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\bin\Debug\net8.0\10.SummerOutfit.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\bin\Debug\net8.0\10.SummerOutfit.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\obj\Debug\net8.0\10.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\obj\Debug\net8.0\10.SummerOutfit.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\obj\Debug\net8.0\10.SummerOutfit.AssemblyInfo.cs
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\obj\Debug\net8.0\10.SummerOutfit.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\obj\Debug\net8.0\10.SummerOutfit.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\obj\Debug\net8.0\refint\10.SummerOutfit.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\obj\Debug\net8.0\10.SummerOutfit.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\obj\Debug\net8.0\10.SummerOutfit.genruntimeconfig.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\10.SummerOutfit\obj\Debug\net8.0\ref\10.SummerOutfit.dll

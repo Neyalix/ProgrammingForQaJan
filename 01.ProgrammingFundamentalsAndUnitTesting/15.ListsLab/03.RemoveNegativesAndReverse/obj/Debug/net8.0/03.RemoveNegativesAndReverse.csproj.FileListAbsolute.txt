@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\bin\Debug\net8.0\03.RemoveNegativesAndReverse.exe
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\bin\Debug\net8.0\03.RemoveNegativesAndReverse.deps.json
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\bin\Debug\net8.0\03.RemoveNegativesAndReverse.runtimeconfig.json
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\bin\Debug\net8.0\03.RemoveNegativesAndReverse.dll
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\bin\Debug\net8.0\03.RemoveNegativesAndReverse.pdb
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\obj\Debug\net8.0\03.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\obj\Debug\net8.0\03.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\obj\Debug\net8.0\03.RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\obj\Debug\net8.0\03.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\obj\Debug\net8.0\03.RemoveNegativesAndReverse.dll
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\obj\Debug\net8.0\refint\03.RemoveNegativesAndReverse.dll
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\obj\Debug\net8.0\03.RemoveNegativesAndReverse.pdb
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\obj\Debug\net8.0\03.RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\ProgrammingForQaJan\15.ListsLab\03.RemoveNegativesAndReverse\obj\Debug\net8.0\ref\03.RemoveNegativesAndReverse.dll

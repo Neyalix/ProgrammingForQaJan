@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E75F0AFA-3501-439A-AA03-801488228E89}|05.DigitsLettersAndOther\\05.DigitsLettersAndOther.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\01.stringsandtextprocessinglab\\05.digitslettersandother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75F0AFA-3501-439A-AA03-801488228E89}|05.DigitsLettersAndOther\\05.DigitsLettersAndOther.csproj|solutionrelative:05.digitslettersandother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9CB303-E345-4417-93C9-98E88B00EB09}|00.Demo\\00.Demo.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\01.stringsandtextprocessinglab\\00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9CB303-E345-4417-93C9-98E88B00EB09}|00.Demo\\00.Demo.csproj|solutionrelative:00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D66D5E-1FAD-459A-89BD-9892C845D022}|04.TextFilter\\04.TextFilter.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\01.stringsandtextprocessinglab\\04.textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D66D5E-1FAD-459A-89BD-9892C845D022}|04.TextFilter\\04.TextFilter.csproj|solutionrelative:04.textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668B1583-ED71-4781-A3E1-1CCA1CF428AB}|01.ReverseStrings\\01.ReverseStrings.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\01.stringsandtextprocessinglab\\01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668B1583-ED71-4781-A3E1-1CCA1CF428AB}|01.ReverseStrings\\01.ReverseStrings.csproj|solutionrelative:01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58286A-39C8-4F85-B9E9-8BC72532C08E}|03.Substring\\03.Substring.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\01.stringsandtextprocessinglab\\03.substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C58286A-39C8-4F85-B9E9-8BC72532C08E}|03.Substring\\03.Substring.csproj|solutionrelative:03.substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAFAA4C-6962-4CB4-996E-AE2B3219DBCD}|02.RepeatStrings\\02.RepeatStrings.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\01.stringsandtextprocessinglab\\02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAFAA4C-6962-4CB4-996E-AE2B3219DBCD}|02.RepeatStrings\\02.RepeatStrings.csproj|solutionrelative:02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\00.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "00.Demo\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\00.Demo\\Program.cs",
+              "RelativeToolTip": "00.Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:51:19.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\05.DigitsLettersAndOther\\Program.cs",
+              "RelativeDocumentMoniker": "05.DigitsLettersAndOther\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\05.DigitsLettersAndOther\\Program.cs*",
+              "RelativeToolTip": "05.DigitsLettersAndOther\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:39:10.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\04.TextFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.TextFilter\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\04.TextFilter\\Program.cs",
+              "RelativeToolTip": "04.TextFilter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:11:04.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\03.Substring\\Program.cs",
+              "RelativeDocumentMoniker": "03.Substring\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\03.Substring\\Program.cs",
+              "RelativeToolTip": "03.Substring\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:17:10.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\02.RepeatStrings\\Program.cs",
+              "RelativeDocumentMoniker": "02.RepeatStrings\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\02.RepeatStrings\\Program.cs",
+              "RelativeToolTip": "02.RepeatStrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:55:12.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\01.ReverseStrings\\Program.cs",
+              "RelativeDocumentMoniker": "01.ReverseStrings\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\01.StringsAndTextProcessingLab\\01.ReverseStrings\\Program.cs",
+              "RelativeToolTip": "01.ReverseStrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:12:20.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

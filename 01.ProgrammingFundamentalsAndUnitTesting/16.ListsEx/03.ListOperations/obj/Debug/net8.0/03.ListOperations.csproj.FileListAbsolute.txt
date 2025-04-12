@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\bin\Debug\net8.0\03.ListOperations.exe
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\bin\Debug\net8.0\03.ListOperations.deps.json
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\bin\Debug\net8.0\03.ListOperations.runtimeconfig.json
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\bin\Debug\net8.0\03.ListOperations.dll
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\bin\Debug\net8.0\03.ListOperations.pdb
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\obj\Debug\net8.0\03.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\obj\Debug\net8.0\03.ListOperations.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\obj\Debug\net8.0\03.ListOperations.AssemblyInfo.cs
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\obj\Debug\net8.0\03.ListOperations.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\obj\Debug\net8.0\03.ListOperations.dll
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\obj\Debug\net8.0\refint\03.ListOperations.dll
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\obj\Debug\net8.0\03.ListOperations.pdb
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\obj\Debug\net8.0\03.ListOperations.genruntimeconfig.cache
+C:\ProgrammingForQaJan\16.ListsEx\03.ListOperations\obj\Debug\net8.0\ref\03.ListOperations.dll

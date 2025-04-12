@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\14.ExamPrep1\\Exam-Preparation-1-Resources\\Resources\\01-String-Rotator-Resources\\StringResources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7856FA4-DBFC-41D7-BADF-9FFE197AB63B}|TestApp.Tests\\TestApp.Tests.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\14.examprep1\\exam-preparation-1-resources\\resources\\01-string-rotator-resources\\stringresources\\testapp.tests\\stringrotatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7856FA4-DBFC-41D7-BADF-9FFE197AB63B}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\stringrotatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF689EA3-F0FC-4DB7-8146-AF105625141B}|TestApp\\TestApp.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\14.examprep1\\exam-preparation-1-resources\\resources\\01-string-rotator-resources\\stringresources\\testapp\\stringrotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF689EA3-F0FC-4DB7-8146-AF105625141B}|TestApp\\TestApp.csproj|solutionrelative:testapp\\stringrotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringRotatorTests.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\14.ExamPrep1\\Exam-Preparation-1-Resources\\Resources\\01-String-Rotator-Resources\\StringResources\\TestApp.Tests\\StringRotatorTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\StringRotatorTests.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\14.ExamPrep1\\Exam-Preparation-1-Resources\\Resources\\01-String-Rotator-Resources\\StringResources\\TestApp.Tests\\StringRotatorTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\StringRotatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:52:55.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringRotator.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\14.ExamPrep1\\Exam-Preparation-1-Resources\\Resources\\01-String-Rotator-Resources\\StringResources\\TestApp\\StringRotator.cs",
+              "RelativeDocumentMoniker": "TestApp\\StringRotator.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\14.ExamPrep1\\Exam-Preparation-1-Resources\\Resources\\01-String-Rotator-Resources\\StringResources\\TestApp\\StringRotator.cs",
+              "RelativeToolTip": "TestApp\\StringRotator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:52:42.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

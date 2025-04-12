@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\bin\Debug\net8.0\06.ProductОfThreeNumbers.exe
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\bin\Debug\net8.0\06.ProductОfThreeNumbers.deps.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\bin\Debug\net8.0\06.ProductОfThreeNumbers.runtimeconfig.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\bin\Debug\net8.0\06.ProductОfThreeNumbers.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\bin\Debug\net8.0\06.ProductОfThreeNumbers.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\obj\Debug\net8.0\06.ProductОfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\obj\Debug\net8.0\06.ProductОfThreeNumbers.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\obj\Debug\net8.0\06.ProductОfThreeNumbers.AssemblyInfo.cs
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\obj\Debug\net8.0\06.ProductОfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\obj\Debug\net8.0\06.ProductОfThreeNumbers.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\obj\Debug\net8.0\refint\06.ProductОfThreeNumbers.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\obj\Debug\net8.0\06.ProductОfThreeNumbers.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\obj\Debug\net8.0\06.ProductОfThreeNumbers.genruntimeconfig.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\06.ProductОfThreeNumbers\obj\Debug\net8.0\ref\06.ProductОfThreeNumbers.dll

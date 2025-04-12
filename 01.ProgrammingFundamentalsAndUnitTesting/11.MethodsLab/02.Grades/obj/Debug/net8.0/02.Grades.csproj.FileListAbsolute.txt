@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\bin\Debug\net8.0\02.Grades.exe
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\bin\Debug\net8.0\02.Grades.deps.json
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\bin\Debug\net8.0\02.Grades.runtimeconfig.json
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\bin\Debug\net8.0\02.Grades.dll
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\bin\Debug\net8.0\02.Grades.pdb
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\obj\Debug\net8.0\02.Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\obj\Debug\net8.0\02.Grades.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\obj\Debug\net8.0\02.Grades.AssemblyInfo.cs
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\obj\Debug\net8.0\02.Grades.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\obj\Debug\net8.0\02.Grades.dll
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\obj\Debug\net8.0\refint\02.Grades.dll
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\obj\Debug\net8.0\02.Grades.pdb
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\obj\Debug\net8.0\02.Grades.genruntimeconfig.cache
+C:\ProgrammingForQaJan\11.MethodsLab\02.Grades\obj\Debug\net8.0\ref\02.Grades.dll

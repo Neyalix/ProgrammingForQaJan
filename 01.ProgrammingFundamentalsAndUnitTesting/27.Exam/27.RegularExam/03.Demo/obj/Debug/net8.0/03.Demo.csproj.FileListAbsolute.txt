@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\bin\Debug\net8.0\03.Demo.exe
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\bin\Debug\net8.0\03.Demo.deps.json
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\bin\Debug\net8.0\03.Demo.runtimeconfig.json
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\bin\Debug\net8.0\03.Demo.dll
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\bin\Debug\net8.0\03.Demo.pdb
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\obj\Debug\net8.0\03.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\obj\Debug\net8.0\03.Demo.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\obj\Debug\net8.0\03.Demo.AssemblyInfo.cs
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\obj\Debug\net8.0\03.Demo.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\obj\Debug\net8.0\03.Demo.dll
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\obj\Debug\net8.0\refint\03.Demo.dll
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\obj\Debug\net8.0\03.Demo.pdb
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\obj\Debug\net8.0\03.Demo.genruntimeconfig.cache
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\03.Demo\obj\Debug\net8.0\ref\03.Demo.dll

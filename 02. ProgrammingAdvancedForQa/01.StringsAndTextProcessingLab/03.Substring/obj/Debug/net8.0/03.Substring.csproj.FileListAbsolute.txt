@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\bin\Debug\net8.0\03.Substring.exe
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\bin\Debug\net8.0\03.Substring.deps.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\bin\Debug\net8.0\03.Substring.runtimeconfig.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\bin\Debug\net8.0\03.Substring.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\bin\Debug\net8.0\03.Substring.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\obj\Debug\net8.0\03.Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\obj\Debug\net8.0\03.Substring.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\obj\Debug\net8.0\03.Substring.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\obj\Debug\net8.0\03.Substring.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\obj\Debug\net8.0\03.Substring.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\obj\Debug\net8.0\refint\03.Substring.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\obj\Debug\net8.0\03.Substring.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\obj\Debug\net8.0\03.Substring.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\01.StringsAndTextProcessingLab\03.Substring\obj\Debug\net8.0\ref\03.Substring.dll

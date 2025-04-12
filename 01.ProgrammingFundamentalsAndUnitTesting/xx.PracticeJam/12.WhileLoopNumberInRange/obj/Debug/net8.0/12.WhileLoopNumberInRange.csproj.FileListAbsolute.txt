@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\bin\Debug\net8.0\12.WhileLoopNumberInRange.exe
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\bin\Debug\net8.0\12.WhileLoopNumberInRange.deps.json
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\bin\Debug\net8.0\12.WhileLoopNumberInRange.runtimeconfig.json
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\bin\Debug\net8.0\12.WhileLoopNumberInRange.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\bin\Debug\net8.0\12.WhileLoopNumberInRange.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\obj\Debug\net8.0\12.WhileLoopNumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\obj\Debug\net8.0\12.WhileLoopNumberInRange.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\obj\Debug\net8.0\12.WhileLoopNumberInRange.AssemblyInfo.cs
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\obj\Debug\net8.0\12.WhileLoopNumberInRange.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\obj\Debug\net8.0\12.WhileLoopNumberInRange.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\obj\Debug\net8.0\refint\12.WhileLoopNumberInRange.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\obj\Debug\net8.0\12.WhileLoopNumberInRange.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\obj\Debug\net8.0\12.WhileLoopNumberInRange.genruntimeconfig.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\12.WhileLoopNumberInRange\obj\Debug\net8.0\ref\12.WhileLoopNumberInRange.dll

@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\bin\Debug\net8.0\02.AverageAndTotalRainfall.exe
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\bin\Debug\net8.0\02.AverageAndTotalRainfall.deps.json
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\bin\Debug\net8.0\02.AverageAndTotalRainfall.runtimeconfig.json
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\bin\Debug\net8.0\02.AverageAndTotalRainfall.dll
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\bin\Debug\net8.0\02.AverageAndTotalRainfall.pdb
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\obj\Debug\net8.0\02.AverageAndTotalRainfall.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\obj\Debug\net8.0\02.AverageAndTotalRainfall.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\obj\Debug\net8.0\02.AverageAndTotalRainfall.AssemblyInfo.cs
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\obj\Debug\net8.0\02.AverageAndTotalRainfall.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\obj\Debug\net8.0\02.AverageAndTotalRainfall.dll
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\obj\Debug\net8.0\refint\02.AverageAndTotalRainfall.dll
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\obj\Debug\net8.0\02.AverageAndTotalRainfall.pdb
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\obj\Debug\net8.0\02.AverageAndTotalRainfall.genruntimeconfig.cache
+C:\ProgrammingForQaJan\27.Exam\27.RegularExam\02.Problem\obj\Debug\net8.0\ref\02.AverageAndTotalRainfall.dll

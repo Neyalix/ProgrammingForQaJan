@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\bin\Debug\net8.0\06.ForLoopLatinLetters.exe
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\bin\Debug\net8.0\06.ForLoopLatinLetters.deps.json
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\bin\Debug\net8.0\06.ForLoopLatinLetters.runtimeconfig.json
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\bin\Debug\net8.0\06.ForLoopLatinLetters.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\bin\Debug\net8.0\06.ForLoopLatinLetters.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\obj\Debug\net8.0\06.ForLoopLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\obj\Debug\net8.0\06.ForLoopLatinLetters.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\obj\Debug\net8.0\06.ForLoopLatinLetters.AssemblyInfo.cs
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\obj\Debug\net8.0\06.ForLoopLatinLetters.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\obj\Debug\net8.0\06.ForLoopLatinLetters.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\obj\Debug\net8.0\refint\06.ForLoopLatinLetters.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\obj\Debug\net8.0\06.ForLoopLatinLetters.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\obj\Debug\net8.0\06.ForLoopLatinLetters.genruntimeconfig.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\06.ForLoopLatinLetters\obj\Debug\net8.0\ref\06.ForLoopLatinLetters.dll

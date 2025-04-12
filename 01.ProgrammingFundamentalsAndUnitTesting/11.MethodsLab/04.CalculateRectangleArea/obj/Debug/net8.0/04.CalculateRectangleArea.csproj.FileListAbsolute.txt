@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\bin\Debug\net8.0\04.CalculateRectangleArea.exe
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\bin\Debug\net8.0\04.CalculateRectangleArea.deps.json
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\bin\Debug\net8.0\04.CalculateRectangleArea.runtimeconfig.json
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\bin\Debug\net8.0\04.CalculateRectangleArea.dll
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\bin\Debug\net8.0\04.CalculateRectangleArea.pdb
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\obj\Debug\net8.0\04.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\obj\Debug\net8.0\04.CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\obj\Debug\net8.0\04.CalculateRectangleArea.AssemblyInfo.cs
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\obj\Debug\net8.0\04.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\obj\Debug\net8.0\04.CalculateRectangleArea.dll
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\obj\Debug\net8.0\refint\04.CalculateRectangleArea.dll
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\obj\Debug\net8.0\04.CalculateRectangleArea.pdb
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\obj\Debug\net8.0\04.CalculateRectangleArea.genruntimeconfig.cache
+C:\ProgrammingForQaJan\11.MethodsLab\04.CalculateRectangleArea\obj\Debug\net8.0\ref\04.CalculateRectangleArea.dll

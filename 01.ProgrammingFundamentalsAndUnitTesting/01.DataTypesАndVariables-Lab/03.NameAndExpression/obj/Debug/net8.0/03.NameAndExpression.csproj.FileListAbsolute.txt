@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\bin\Debug\net8.0\03.NameAndExpression.exe
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\bin\Debug\net8.0\03.NameAndExpression.deps.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\bin\Debug\net8.0\03.NameAndExpression.runtimeconfig.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\bin\Debug\net8.0\03.NameAndExpression.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\bin\Debug\net8.0\03.NameAndExpression.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\obj\Debug\net8.0\03.NameAndExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\obj\Debug\net8.0\03.NameAndExpression.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\obj\Debug\net8.0\03.NameAndExpression.AssemblyInfo.cs
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\obj\Debug\net8.0\03.NameAndExpression.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\obj\Debug\net8.0\03.NameAndExpression.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\obj\Debug\net8.0\refint\03.NameAndExpression.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\obj\Debug\net8.0\03.NameAndExpression.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\obj\Debug\net8.0\03.NameAndExpression.genruntimeconfig.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\03.NameAndExpression\obj\Debug\net8.0\ref\03.NameAndExpression.dll

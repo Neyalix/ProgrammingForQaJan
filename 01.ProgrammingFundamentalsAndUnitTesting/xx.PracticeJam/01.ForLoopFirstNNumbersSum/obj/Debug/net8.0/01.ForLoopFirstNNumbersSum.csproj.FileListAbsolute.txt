@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\bin\Debug\net8.0\01.ForLoopFirstNNumbersSum.exe
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\bin\Debug\net8.0\01.ForLoopFirstNNumbersSum.deps.json
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\bin\Debug\net8.0\01.ForLoopFirstNNumbersSum.runtimeconfig.json
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\bin\Debug\net8.0\01.ForLoopFirstNNumbersSum.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\bin\Debug\net8.0\01.ForLoopFirstNNumbersSum.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\obj\Debug\net8.0\01.ForLoopFirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\obj\Debug\net8.0\01.ForLoopFirstNNumbersSum.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\obj\Debug\net8.0\01.ForLoopFirstNNumbersSum.AssemblyInfo.cs
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\obj\Debug\net8.0\01.ForLoopFirstNNumbersSum.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\obj\Debug\net8.0\01.ForLoopFirstNNumbersSum.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\obj\Debug\net8.0\refint\01.ForLoopFirstNNumbersSum.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\obj\Debug\net8.0\01.ForLoopFirstNNumbersSum.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\obj\Debug\net8.0\01.ForLoopFirstNNumbersSum.genruntimeconfig.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\01.ForLoopFirstNNumbersSum\obj\Debug\net8.0\ref\01.ForLoopFirstNNumbersSum.dll

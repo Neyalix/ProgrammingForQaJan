@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE188B7-7EB2-4D8A-BDF3-8A26A5EC7685}|00.Demo\\00.Demo.csproj|c:\\programmingforqajan\\simpleconditionalstatements\\00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE188B7-7EB2-4D8A-BDF3-8A26A5EC7685}|00.Demo\\00.Demo.csproj|solutionrelative:00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234DD501-3565-4C58-BF10-83D16CBFBAEF}|09.ValidTriangle\\09.ValidTriangle.csproj|c:\\programmingforqajan\\simpleconditionalstatements\\09.validtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234DD501-3565-4C58-BF10-83D16CBFBAEF}|09.ValidTriangle\\09.ValidTriangle.csproj|solutionrelative:09.validtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECCFC22-28EE-4A84-995A-67B9B95237C3}|08.TicketPrice\\08.TicketPrice.csproj|c:\\programmingforqajan\\simpleconditionalstatements\\08.ticketprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECCFC22-28EE-4A84-995A-67B9B95237C3}|08.TicketPrice\\08.TicketPrice.csproj|solutionrelative:08.ticketprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872508BA-CEC5-46FC-91AD-B4E48A3A4961}|07.SpeedInfo\\07.SpeedInfo.csproj|c:\\programmingforqajan\\simpleconditionalstatements\\07.speedinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872508BA-CEC5-46FC-91AD-B4E48A3A4961}|07.SpeedInfo\\07.SpeedInfo.csproj|solutionrelative:07.speedinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093DEA91-D6DF-47FF-8BB4-C45BE87CE19F}|03.NumberOneToNineAsWords\\03.NumberOneToNineAsWords.csproj|c:\\programmingforqajan\\simpleconditionalstatements\\03.numberonetonineaswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093DEA91-D6DF-47FF-8BB4-C45BE87CE19F}|03.NumberOneToNineAsWords\\03.NumberOneToNineAsWords.csproj|solutionrelative:03.numberonetonineaswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8701A3-D5EE-47FE-A3CE-F0A8D7595F48}|04.GreaterNumber\\04.GreaterNumber.csproj|c:\\programmingforqajan\\simpleconditionalstatements\\04.greaternumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8701A3-D5EE-47FE-A3CE-F0A8D7595F48}|04.GreaterNumber\\04.GreaterNumber.csproj|solutionrelative:04.greaternumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1B47C8-9AD7-4EC3-9BD3-353BF4BA1665}|05.GuessThePassword\\05.GuessThePassword.csproj|c:\\programmingforqajan\\simpleconditionalstatements\\05.guessthepassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1B47C8-9AD7-4EC3-9BD3-353BF4BA1665}|05.GuessThePassword\\05.GuessThePassword.csproj|solutionrelative:05.guessthepassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB976DD-B0A6-4A5E-895F-4CB61BE10A93}|06.BoilingWater\\06.BoilingWater.csproj|c:\\programmingforqajan\\simpleconditionalstatements\\06.boilingwater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB976DD-B0A6-4A5E-895F-4CB61BE10A93}|06.BoilingWater\\06.BoilingWater.csproj|solutionrelative:06.boilingwater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C8D91E-FB62-4549-A522-2791C4A291F6}|01.FreezingWeather\\01.FreezingWeather.csproj|c:\\programmingforqajan\\simpleconditionalstatements\\01.freezingweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C8D91E-FB62-4549-A522-2791C4A291F6}|01.FreezingWeather\\01.FreezingWeather.csproj|solutionrelative:01.freezingweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959DD6A7-6D63-4FE4-B4A4-B6CDA65F99DD}|02.EvenOrOdd\\02.EvenOrOdd.csproj|c:\\programmingforqajan\\simpleconditionalstatements\\02.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959DD6A7-6D63-4FE4-B4A4-B6CDA65F99DD}|02.EvenOrOdd\\02.EvenOrOdd.csproj|solutionrelative:02.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\09.ValidTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "09.ValidTriangle\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\09.ValidTriangle\\Program.cs",
+              "RelativeToolTip": "09.ValidTriangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:59:04.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\07.SpeedInfo\\Program.cs",
+              "RelativeDocumentMoniker": "07.SpeedInfo\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\07.SpeedInfo\\Program.cs",
+              "RelativeToolTip": "07.SpeedInfo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:15:12.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\06.BoilingWater\\Program.cs",
+              "RelativeDocumentMoniker": "06.BoilingWater\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\06.BoilingWater\\Program.cs",
+              "RelativeToolTip": "06.BoilingWater\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:08:42.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\05.GuessThePassword\\Program.cs",
+              "RelativeDocumentMoniker": "05.GuessThePassword\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\05.GuessThePassword\\Program.cs",
+              "RelativeToolTip": "05.GuessThePassword\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:04:47.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\04.GreaterNumber\\Program.cs",
+              "RelativeDocumentMoniker": "04.GreaterNumber\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\04.GreaterNumber\\Program.cs",
+              "RelativeToolTip": "04.GreaterNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:53:45.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\03.NumberOneToNineAsWords\\Program.cs",
+              "RelativeDocumentMoniker": "03.NumberOneToNineAsWords\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\03.NumberOneToNineAsWords\\Program.cs",
+              "RelativeToolTip": "03.NumberOneToNineAsWords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:18:15.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\01.FreezingWeather\\Program.cs",
+              "RelativeDocumentMoniker": "01.FreezingWeather\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\01.FreezingWeather\\Program.cs",
+              "RelativeToolTip": "01.FreezingWeather\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:11:09.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\02.EvenOrOdd\\Program.cs",
+              "RelativeDocumentMoniker": "02.EvenOrOdd\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\02.EvenOrOdd\\Program.cs",
+              "RelativeToolTip": "02.EvenOrOdd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:19:11.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\00.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "00.Demo\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\00.Demo\\Program.cs*",
+              "RelativeToolTip": "00.Demo\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:34:56.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\08.TicketPrice\\Program.cs",
+              "RelativeDocumentMoniker": "08.TicketPrice\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\SimpleConditionalStatements\\08.TicketPrice\\Program.cs",
+              "RelativeToolTip": "08.TicketPrice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:47:02.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

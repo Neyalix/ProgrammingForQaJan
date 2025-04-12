@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.WaterConsumption", "01.Problem\01.WaterConsumption.csproj", "{B94119B2-9308-4DF6-B207-504668CE54F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AverageAndTotalRainfall", "02.Problem\02.AverageAndTotalRainfall.csproj", "{53323C64-907E-4DAF-92C0-EE393F315F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Demo", "03.Demo\03.Demo.csproj", "{2B953F63-26F6-441E-B80C-698B933F5C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94119B2-9308-4DF6-B207-504668CE54F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94119B2-9308-4DF6-B207-504668CE54F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94119B2-9308-4DF6-B207-504668CE54F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94119B2-9308-4DF6-B207-504668CE54F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53323C64-907E-4DAF-92C0-EE393F315F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53323C64-907E-4DAF-92C0-EE393F315F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53323C64-907E-4DAF-92C0-EE393F315F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53323C64-907E-4DAF-92C0-EE393F315F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B953F63-26F6-441E-B80C-698B933F5C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B953F63-26F6-441E-B80C-698B933F5C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B953F63-26F6-441E-B80C-698B933F5C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B953F63-26F6-441E-B80C-698B933F5C61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

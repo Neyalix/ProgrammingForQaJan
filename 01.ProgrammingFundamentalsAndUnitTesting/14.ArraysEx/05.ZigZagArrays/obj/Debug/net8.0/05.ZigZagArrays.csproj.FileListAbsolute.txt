@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\bin\Debug\net8.0\05.ZigZagArrays.exe
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\bin\Debug\net8.0\05.ZigZagArrays.deps.json
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\bin\Debug\net8.0\05.ZigZagArrays.runtimeconfig.json
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\bin\Debug\net8.0\05.ZigZagArrays.dll
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\bin\Debug\net8.0\05.ZigZagArrays.pdb
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\obj\Debug\net8.0\05.ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\obj\Debug\net8.0\05.ZigZagArrays.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\obj\Debug\net8.0\05.ZigZagArrays.AssemblyInfo.cs
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\obj\Debug\net8.0\05.ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\obj\Debug\net8.0\05.ZigZagArrays.dll
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\obj\Debug\net8.0\refint\05.ZigZagArrays.dll
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\obj\Debug\net8.0\05.ZigZagArrays.pdb
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\obj\Debug\net8.0\05.ZigZagArrays.genruntimeconfig.cache
+C:\ProgrammingForQaJan\14.ArraysEx\05.ZigZagArrays\obj\Debug\net8.0\ref\05.ZigZagArrays.dll

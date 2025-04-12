@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\bin\Debug\net8.0\05.NumbersFromOneToNOverThree.exe
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\bin\Debug\net8.0\05.NumbersFromOneToNOverThree.deps.json
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\bin\Debug\net8.0\05.NumbersFromOneToNOverThree.runtimeconfig.json
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\bin\Debug\net8.0\05.NumbersFromOneToNOverThree.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\bin\Debug\net8.0\05.NumbersFromOneToNOverThree.pdb
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\obj\Debug\net8.0\05.NumbersFromOneToNOverThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\obj\Debug\net8.0\05.NumbersFromOneToNOverThree.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\obj\Debug\net8.0\05.NumbersFromOneToNOverThree.AssemblyInfo.cs
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\obj\Debug\net8.0\05.NumbersFromOneToNOverThree.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\obj\Debug\net8.0\05.NumbersFromOneToNOverThree.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\obj\Debug\net8.0\refint\05.NumbersFromOneToNOverThree.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\obj\Debug\net8.0\05.NumbersFromOneToNOverThree.pdb
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\obj\Debug\net8.0\05.NumbersFromOneToNOverThree.genruntimeconfig.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\05.NumbersFromOneToNOverThree\obj\Debug\net8.0\ref\05.NumbersFromOneToNOverThree.dll

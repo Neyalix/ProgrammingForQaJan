@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\bin\Debug\net8.0\05.SumDigits.exe
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\bin\Debug\net8.0\05.SumDigits.deps.json
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\bin\Debug\net8.0\05.SumDigits.runtimeconfig.json
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\bin\Debug\net8.0\05.SumDigits.dll
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\bin\Debug\net8.0\05.SumDigits.pdb
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\obj\Debug\net8.0\05.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\obj\Debug\net8.0\05.SumDigits.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\obj\Debug\net8.0\05.SumDigits.AssemblyInfo.cs
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\obj\Debug\net8.0\05.SumDigits.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\obj\Debug\net8.0\05.SumDigits.dll
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\obj\Debug\net8.0\refint\05.SumDigits.dll
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\obj\Debug\net8.0\05.SumDigits.pdb
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\obj\Debug\net8.0\05.SumDigits.genruntimeconfig.cache
+C:\ProgrammingForQaJan\08.WhileLoop\05.SumDigits\obj\Debug\net8.0\ref\05.SumDigits.dll

@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\bin\Debug\net8.0\04.VowelSum.exe
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\bin\Debug\net8.0\04.VowelSum.deps.json
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\bin\Debug\net8.0\04.VowelSum.runtimeconfig.json
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\bin\Debug\net8.0\04.VowelSum.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\bin\Debug\net8.0\04.VowelSum.pdb
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\obj\Debug\net8.0\04.VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\obj\Debug\net8.0\04.VowelSum.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\obj\Debug\net8.0\04.VowelSum.AssemblyInfo.cs
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\obj\Debug\net8.0\04.VowelSum.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\obj\Debug\net8.0\04.VowelSum.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\obj\Debug\net8.0\refint\04.VowelSum.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\obj\Debug\net8.0\04.VowelSum.pdb
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\obj\Debug\net8.0\04.VowelSum.genruntimeconfig.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\04.VowelSum\obj\Debug\net8.0\ref\04.VowelSum.dll

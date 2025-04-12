@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\bin\Debug\net8.0\05.VacationExpenses.exe
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\bin\Debug\net8.0\05.VacationExpenses.deps.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\bin\Debug\net8.0\05.VacationExpenses.runtimeconfig.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\bin\Debug\net8.0\05.VacationExpenses.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\bin\Debug\net8.0\05.VacationExpenses.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net8.0\05.VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net8.0\05.VacationExpenses.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net8.0\05.VacationExpenses.AssemblyInfo.cs
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net8.0\05.VacationExpenses.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net8.0\05.VacationExpenses.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net8.0\refint\05.VacationExpenses.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net8.0\05.VacationExpenses.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net8.0\05.VacationExpenses.genruntimeconfig.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\05.VacationExpenses\obj\Debug\net8.0\ref\05.VacationExpenses.dll

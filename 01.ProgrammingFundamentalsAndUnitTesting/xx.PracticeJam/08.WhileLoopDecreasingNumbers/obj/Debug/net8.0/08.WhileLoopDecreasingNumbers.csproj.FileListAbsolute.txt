@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\bin\Debug\net8.0\08.WhileLoopDecreasingNumbers.exe
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\bin\Debug\net8.0\08.WhileLoopDecreasingNumbers.deps.json
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\bin\Debug\net8.0\08.WhileLoopDecreasingNumbers.runtimeconfig.json
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\bin\Debug\net8.0\08.WhileLoopDecreasingNumbers.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\bin\Debug\net8.0\08.WhileLoopDecreasingNumbers.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\obj\Debug\net8.0\08.WhileLoopDecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\obj\Debug\net8.0\08.WhileLoopDecreasingNumbers.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\obj\Debug\net8.0\08.WhileLoopDecreasingNumbers.AssemblyInfo.cs
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\obj\Debug\net8.0\08.WhileLoopDecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\obj\Debug\net8.0\08.WhileLoopDecreasingNumbers.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\obj\Debug\net8.0\refint\08.WhileLoopDecreasingNumbers.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\obj\Debug\net8.0\08.WhileLoopDecreasingNumbers.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\obj\Debug\net8.0\08.WhileLoopDecreasingNumbers.genruntimeconfig.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\08.WhileLoopDecreasingNumbers\obj\Debug\net8.0\ref\08.WhileLoopDecreasingNumbers.dll

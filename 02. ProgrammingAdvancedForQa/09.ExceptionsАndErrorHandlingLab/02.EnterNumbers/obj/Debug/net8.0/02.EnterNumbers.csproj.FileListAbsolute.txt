@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\bin\Debug\net8.0\02.EnterNumbers.exe
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\bin\Debug\net8.0\02.EnterNumbers.deps.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\bin\Debug\net8.0\02.EnterNumbers.runtimeconfig.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\bin\Debug\net8.0\02.EnterNumbers.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\bin\Debug\net8.0\02.EnterNumbers.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\obj\Debug\net8.0\02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\obj\Debug\net8.0\02.EnterNumbers.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\obj\Debug\net8.0\02.EnterNumbers.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\obj\Debug\net8.0\02.EnterNumbers.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\obj\Debug\net8.0\02.EnterNumbers.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\obj\Debug\net8.0\refint\02.EnterNumbers.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\obj\Debug\net8.0\02.EnterNumbers.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\obj\Debug\net8.0\02.EnterNumbers.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\09.ExceptionsАndErrorHandlingLab\02.EnterNumbers\obj\Debug\net8.0\ref\02.EnterNumbers.dll

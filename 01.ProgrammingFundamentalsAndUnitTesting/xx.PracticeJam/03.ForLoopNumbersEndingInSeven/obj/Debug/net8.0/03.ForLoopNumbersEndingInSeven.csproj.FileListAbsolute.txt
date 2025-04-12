@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\bin\Debug\net8.0\03.ForLoopNumbersEndingInSeven.exe
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\bin\Debug\net8.0\03.ForLoopNumbersEndingInSeven.deps.json
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\bin\Debug\net8.0\03.ForLoopNumbersEndingInSeven.runtimeconfig.json
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\bin\Debug\net8.0\03.ForLoopNumbersEndingInSeven.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\bin\Debug\net8.0\03.ForLoopNumbersEndingInSeven.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\obj\Debug\net8.0\03.ForLoopNumbersEndingInSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\obj\Debug\net8.0\03.ForLoopNumbersEndingInSeven.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\obj\Debug\net8.0\03.ForLoopNumbersEndingInSeven.AssemblyInfo.cs
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\obj\Debug\net8.0\03.ForLoopNumbersEndingInSeven.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\obj\Debug\net8.0\03.ForLoopNumbersEndingInSeven.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\obj\Debug\net8.0\refint\03.ForLoopNumbersEndingInSeven.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\obj\Debug\net8.0\03.ForLoopNumbersEndingInSeven.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\obj\Debug\net8.0\03.ForLoopNumbersEndingInSeven.genruntimeconfig.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\03.ForLoopNumbersEndingInSeven\obj\Debug\net8.0\ref\03.ForLoopNumbersEndingInSeven.dll

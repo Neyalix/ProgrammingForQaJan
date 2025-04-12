@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\bin\Debug\net8.0\04.Sequence2kPlus1.exe
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\bin\Debug\net8.0\04.Sequence2kPlus1.deps.json
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\bin\Debug\net8.0\04.Sequence2kPlus1.runtimeconfig.json
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\bin\Debug\net8.0\04.Sequence2kPlus1.dll
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\bin\Debug\net8.0\04.Sequence2kPlus1.pdb
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\obj\Debug\net8.0\04.Sequence2kPlus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\obj\Debug\net8.0\04.Sequence2kPlus1.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\obj\Debug\net8.0\04.Sequence2kPlus1.AssemblyInfo.cs
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\obj\Debug\net8.0\04.Sequence2kPlus1.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\obj\Debug\net8.0\04.Sequence2kPlus1.dll
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\obj\Debug\net8.0\refint\04.Sequence2kPlus1.dll
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\obj\Debug\net8.0\04.Sequence2kPlus1.pdb
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\obj\Debug\net8.0\04.Sequence2kPlus1.genruntimeconfig.cache
+C:\ProgrammingForQaJan\08.WhileLoop\04.Sequence2kPlus1\obj\Debug\net8.0\ref\04.Sequence2kPlus1.dll

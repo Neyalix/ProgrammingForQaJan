@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\bin\Debug\net8.0\02.DecreasingNumbers.exe
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\bin\Debug\net8.0\02.DecreasingNumbers.deps.json
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\bin\Debug\net8.0\02.DecreasingNumbers.runtimeconfig.json
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\bin\Debug\net8.0\02.DecreasingNumbers.dll
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\bin\Debug\net8.0\02.DecreasingNumbers.pdb
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.AssemblyInfo.cs
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.dll
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\refint\02.DecreasingNumbers.dll
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.pdb
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\02.DecreasingNumbers.genruntimeconfig.cache
+C:\ProgrammingForQaJan\08.WhileLoop\02.DecreasingNumbers\obj\Debug\net8.0\ref\02.DecreasingNumbers.dll

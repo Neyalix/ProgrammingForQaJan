@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\bin\Debug\net8.0\06.CustomerInfo.exe
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\bin\Debug\net8.0\06.CustomerInfo.deps.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\bin\Debug\net8.0\06.CustomerInfo.runtimeconfig.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\bin\Debug\net8.0\06.CustomerInfo.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\bin\Debug\net8.0\06.CustomerInfo.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\obj\Debug\net8.0\06.CustomerInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\obj\Debug\net8.0\06.CustomerInfo.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\obj\Debug\net8.0\06.CustomerInfo.AssemblyInfo.cs
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\obj\Debug\net8.0\06.CustomerInfo.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\obj\Debug\net8.0\06.CustomerInfo.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\obj\Debug\net8.0\refint\06.CustomerInfo.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\obj\Debug\net8.0\06.CustomerInfo.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\obj\Debug\net8.0\06.CustomerInfo.genruntimeconfig.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\06.CustomerInfo\obj\Debug\net8.0\ref\06.CustomerInfo.dll

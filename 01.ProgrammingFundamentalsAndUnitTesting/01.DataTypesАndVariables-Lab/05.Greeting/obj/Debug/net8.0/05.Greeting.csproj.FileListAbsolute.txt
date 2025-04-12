@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\bin\Debug\net8.0\05.Greeting.exe
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\bin\Debug\net8.0\05.Greeting.deps.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\bin\Debug\net8.0\05.Greeting.runtimeconfig.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\bin\Debug\net8.0\05.Greeting.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\bin\Debug\net8.0\05.Greeting.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\obj\Debug\net8.0\05.Greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\obj\Debug\net8.0\05.Greeting.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\obj\Debug\net8.0\05.Greeting.AssemblyInfo.cs
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\obj\Debug\net8.0\05.Greeting.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\obj\Debug\net8.0\05.Greeting.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\obj\Debug\net8.0\refint\05.Greeting.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\obj\Debug\net8.0\05.Greeting.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\obj\Debug\net8.0\05.Greeting.genruntimeconfig.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\05.Greeting\obj\Debug\net8.0\ref\05.Greeting.dll

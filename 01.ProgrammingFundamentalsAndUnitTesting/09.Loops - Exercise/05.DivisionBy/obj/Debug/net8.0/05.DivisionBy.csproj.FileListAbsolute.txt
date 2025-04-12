@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\bin\Debug\net8.0\05.DivisionBy.exe
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\bin\Debug\net8.0\05.DivisionBy.deps.json
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\bin\Debug\net8.0\05.DivisionBy.runtimeconfig.json
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\bin\Debug\net8.0\05.DivisionBy.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\bin\Debug\net8.0\05.DivisionBy.pdb
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\obj\Debug\net8.0\05.DivisionBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\obj\Debug\net8.0\05.DivisionBy.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\obj\Debug\net8.0\05.DivisionBy.AssemblyInfo.cs
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\obj\Debug\net8.0\05.DivisionBy.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\obj\Debug\net8.0\05.DivisionBy.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\obj\Debug\net8.0\refint\05.DivisionBy.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\obj\Debug\net8.0\05.DivisionBy.pdb
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\obj\Debug\net8.0\05.DivisionBy.genruntimeconfig.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\05.DivisionBy\obj\Debug\net8.0\ref\05.DivisionBy.dll

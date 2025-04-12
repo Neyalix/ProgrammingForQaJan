@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\bin\Debug\net8.0\01.MagicNumbers.exe
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\bin\Debug\net8.0\01.MagicNumbers.deps.json
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\bin\Debug\net8.0\01.MagicNumbers.runtimeconfig.json
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\bin\Debug\net8.0\01.MagicNumbers.dll
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\bin\Debug\net8.0\01.MagicNumbers.pdb
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\obj\Debug\net8.0\01.MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\obj\Debug\net8.0\01.MagicNumbers.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\obj\Debug\net8.0\01.MagicNumbers.AssemblyInfo.cs
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\obj\Debug\net8.0\01.MagicNumbers.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\obj\Debug\net8.0\01.MagicNumbers.dll
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\obj\Debug\net8.0\refint\01.MagicNumbers.dll
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\obj\Debug\net8.0\01.MagicNumbers.pdb
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\obj\Debug\net8.0\01.MagicNumbers.genruntimeconfig.cache
+C:\ProgrammingForQaJan\26.ExamPrepTwo\01.MagicNumbers\obj\Debug\net8.0\ref\01.MagicNumbers.dll

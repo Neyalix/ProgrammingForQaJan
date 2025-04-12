@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.exe
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.deps.json
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.runtimeconfig.json
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.dll
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.pdb
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.AssemblyInfo.cs
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.dll
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\refint\03.PrintingTriangle.dll
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.pdb
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.genruntimeconfig.cache
+C:\ProgrammingForQaJan\11.MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\ref\03.PrintingTriangle.dll

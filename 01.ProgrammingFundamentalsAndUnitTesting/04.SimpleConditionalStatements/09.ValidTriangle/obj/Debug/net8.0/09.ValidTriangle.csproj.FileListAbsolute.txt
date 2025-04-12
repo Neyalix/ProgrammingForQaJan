@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\bin\Debug\net8.0\09.ValidTriangle.exe
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\bin\Debug\net8.0\09.ValidTriangle.deps.json
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\bin\Debug\net8.0\09.ValidTriangle.runtimeconfig.json
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\bin\Debug\net8.0\09.ValidTriangle.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\bin\Debug\net8.0\09.ValidTriangle.pdb
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net8.0\09.ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net8.0\09.ValidTriangle.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net8.0\09.ValidTriangle.AssemblyInfo.cs
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net8.0\09.ValidTriangle.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net8.0\09.ValidTriangle.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net8.0\refint\09.ValidTriangle.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net8.0\09.ValidTriangle.pdb
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net8.0\09.ValidTriangle.genruntimeconfig.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\09.ValidTriangle\obj\Debug\net8.0\ref\09.ValidTriangle.dll

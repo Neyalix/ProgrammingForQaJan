@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\08.WhileLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBACEFB-7A53-4937-8880-0E652DDCAEC5}|07.NumberProcessor\\07.NumberProcessor.csproj|c:\\programmingforqajan\\08.whileloop\\07.numberprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBACEFB-7A53-4937-8880-0E652DDCAEC5}|07.NumberProcessor\\07.NumberProcessor.csproj|solutionrelative:07.numberprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F393F6B-947B-4762-901A-FBFC83A7F667}|06.NumberInRange\\06.NumberInRange.csproj|c:\\programmingforqajan\\08.whileloop\\06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F393F6B-947B-4762-901A-FBFC83A7F667}|06.NumberInRange\\06.NumberInRange.csproj|solutionrelative:06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E2DE51-DB16-4ADB-BDBE-696CA146E13C}|05.SumDigits\\05.SumDigits.csproj|c:\\programmingforqajan\\08.whileloop\\05.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E2DE51-DB16-4ADB-BDBE-696CA146E13C}|05.SumDigits\\05.SumDigits.csproj|solutionrelative:05.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41AB6D7D-C7B9-4421-A535-6B990F73ECBF}|04.Sequence2kPlus1\\04.Sequence2kPlus1.csproj|c:\\programmingforqajan\\08.whileloop\\04.sequence2kplus1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41AB6D7D-C7B9-4421-A535-6B990F73ECBF}|04.Sequence2kPlus1\\04.Sequence2kPlus1.csproj|solutionrelative:04.sequence2kplus1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A150B1A-A458-4FF4-8DD0-8B05C06A2995}|01.NumbersOneToHundred\\01.NumbersOneToHundred.csproj|c:\\programmingforqajan\\08.whileloop\\01.numbersonetohundred\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A150B1A-A458-4FF4-8DD0-8B05C06A2995}|01.NumbersOneToHundred\\01.NumbersOneToHundred.csproj|solutionrelative:01.numbersonetohundred\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17206FD-65D0-4EAF-883E-652D85E3E4B1}|02.DecreasingNumbers\\02.DecreasingNumbers.csproj|c:\\programmingforqajan\\08.whileloop\\02.decreasingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17206FD-65D0-4EAF-883E-652D85E3E4B1}|02.DecreasingNumbers\\02.DecreasingNumbers.csproj|solutionrelative:02.decreasingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCAF195-4B70-43D1-9C2A-069F1F72C35E}|03.OddNumber\\03.OddNumber.csproj|c:\\programmingforqajan\\08.whileloop\\03.oddnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCAF195-4B70-43D1-9C2A-069F1F72C35E}|03.OddNumber\\03.OddNumber.csproj|solutionrelative:03.oddnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\08.WhileLoop\\07.NumberProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "07.NumberProcessor\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\08.WhileLoop\\07.NumberProcessor\\Program.cs",
+              "RelativeToolTip": "07.NumberProcessor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:12:23.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\08.WhileLoop\\06.NumberInRange\\Program.cs",
+              "RelativeDocumentMoniker": "06.NumberInRange\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\08.WhileLoop\\06.NumberInRange\\Program.cs",
+              "RelativeToolTip": "06.NumberInRange\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:04:02.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\08.WhileLoop\\05.SumDigits\\Program.cs",
+              "RelativeDocumentMoniker": "05.SumDigits\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\08.WhileLoop\\05.SumDigits\\Program.cs",
+              "RelativeToolTip": "05.SumDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:16:43.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\08.WhileLoop\\04.Sequence2kPlus1\\Program.cs",
+              "RelativeDocumentMoniker": "04.Sequence2kPlus1\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\08.WhileLoop\\04.Sequence2kPlus1\\Program.cs",
+              "RelativeToolTip": "04.Sequence2kPlus1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:21:13.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\08.WhileLoop\\03.OddNumber\\Program.cs",
+              "RelativeDocumentMoniker": "03.OddNumber\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\08.WhileLoop\\03.OddNumber\\Program.cs",
+              "RelativeToolTip": "03.OddNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:04:36.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\08.WhileLoop\\02.DecreasingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "02.DecreasingNumbers\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\08.WhileLoop\\02.DecreasingNumbers\\Program.cs",
+              "RelativeToolTip": "02.DecreasingNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:03:07.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\08.WhileLoop\\01.NumbersOneToHundred\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumbersOneToHundred\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\08.WhileLoop\\01.NumbersOneToHundred\\Program.cs",
+              "RelativeToolTip": "01.NumbersOneToHundred\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:47:12.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

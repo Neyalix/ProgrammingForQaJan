@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\bin\Debug\net8.0\07. PersonInfo.exe
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\bin\Debug\net8.0\07. PersonInfo.deps.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\bin\Debug\net8.0\07. PersonInfo.runtimeconfig.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\bin\Debug\net8.0\07. PersonInfo.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\bin\Debug\net8.0\07. PersonInfo.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\obj\Debug\net8.0\07. PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\obj\Debug\net8.0\07. PersonInfo.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\obj\Debug\net8.0\07. PersonInfo.AssemblyInfo.cs
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\obj\Debug\net8.0\07. PersonInfo.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\obj\Debug\net8.0\07. PersonInfo.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\obj\Debug\net8.0\refint\07. PersonInfo.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\obj\Debug\net8.0\07. PersonInfo.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\obj\Debug\net8.0\07. PersonInfo.genruntimeconfig.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\07. PersonInfo\obj\Debug\net8.0\ref\07. PersonInfo.dll

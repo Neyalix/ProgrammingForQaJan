@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\bin\Debug\net8.0\07.WhileLoopNumbersOneToHundred.exe
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\bin\Debug\net8.0\07.WhileLoopNumbersOneToHundred.deps.json
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\bin\Debug\net8.0\07.WhileLoopNumbersOneToHundred.runtimeconfig.json
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\bin\Debug\net8.0\07.WhileLoopNumbersOneToHundred.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\bin\Debug\net8.0\07.WhileLoopNumbersOneToHundred.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\obj\Debug\net8.0\07.WhileLoopNumbersOneToHundred.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\obj\Debug\net8.0\07.WhileLoopNumbersOneToHundred.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\obj\Debug\net8.0\07.WhileLoopNumbersOneToHundred.AssemblyInfo.cs
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\obj\Debug\net8.0\07.WhileLoopNumbersOneToHundred.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\obj\Debug\net8.0\07.WhileLoopNumbersOneToHundred.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\obj\Debug\net8.0\refint\07.WhileLoopNumbersOneToHundred.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\obj\Debug\net8.0\07.WhileLoopNumbersOneToHundred.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\obj\Debug\net8.0\07.WhileLoopNumbersOneToHundred.genruntimeconfig.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\07.WhileLoopNumbersOneToHundred\obj\Debug\net8.0\ref\07.WhileLoopNumbersOneToHundred.dll

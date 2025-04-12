@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\obj\Debug\net8.0\02.MiddleElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\obj\Debug\net8.0\02.MiddleElements.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\obj\Debug\net8.0\02.MiddleElements.AssemblyInfo.cs
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\obj\Debug\net8.0\02.MiddleElements.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\bin\Debug\net8.0\02.MiddleElements.exe
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\bin\Debug\net8.0\02.MiddleElements.deps.json
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\bin\Debug\net8.0\02.MiddleElements.runtimeconfig.json
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\bin\Debug\net8.0\02.MiddleElements.dll
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\bin\Debug\net8.0\02.MiddleElements.pdb
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\obj\Debug\net8.0\02.MiddleElements.dll
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\obj\Debug\net8.0\refint\02.MiddleElements.dll
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\obj\Debug\net8.0\02.MiddleElements.pdb
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\obj\Debug\net8.0\02.MiddleElements.genruntimeconfig.cache
+C:\ProgrammingForQaJan\25.ExamPreparationOne\02.MiddleElements\obj\Debug\net8.0\ref\02.MiddleElements.dll

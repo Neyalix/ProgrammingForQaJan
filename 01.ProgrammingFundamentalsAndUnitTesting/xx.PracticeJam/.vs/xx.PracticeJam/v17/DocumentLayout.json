@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9439478-B48E-41CA-8635-8D176B2D87BB}|14.LoopsExPowerOfNumber\\14.LoopsExPowerOfNumber.csproj|c:\\programmingforqajan\\xx.practicejam\\14.loopsexpowerofnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9439478-B48E-41CA-8635-8D176B2D87BB}|14.LoopsExPowerOfNumber\\14.LoopsExPowerOfNumber.csproj|solutionrelative:14.loopsexpowerofnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8430C0-C60B-40AE-ACC4-A22DD5190D61}|13.WhileLoopNumberProcessor\\13.WhileLoopNumberProcessor.csproj|c:\\programmingforqajan\\xx.practicejam\\13.whileloopnumberprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8430C0-C60B-40AE-ACC4-A22DD5190D61}|13.WhileLoopNumberProcessor\\13.WhileLoopNumberProcessor.csproj|solutionrelative:13.whileloopnumberprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EA7322-C71C-42A0-A4FE-547C9D0F72D3}|12.WhileLoopNumberInRange\\12.WhileLoopNumberInRange.csproj|c:\\programmingforqajan\\xx.practicejam\\12.whileloopnumberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EA7322-C71C-42A0-A4FE-547C9D0F72D3}|12.WhileLoopNumberInRange\\12.WhileLoopNumberInRange.csproj|solutionrelative:12.whileloopnumberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0BE960-190E-4FFF-98AB-576A4DA84D5B}|11.WhileLoopSumDigits\\11.WhileLoopSumDigits.csproj|c:\\programmingforqajan\\xx.practicejam\\11.whileloopsumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0BE960-190E-4FFF-98AB-576A4DA84D5B}|11.WhileLoopSumDigits\\11.WhileLoopSumDigits.csproj|solutionrelative:11.whileloopsumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC97751F-7364-479E-B4D6-1A5FCAA13B08}|00.Practice\\00.Practice.csproj|c:\\programmingforqajan\\xx.practicejam\\00.practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC97751F-7364-479E-B4D6-1A5FCAA13B08}|00.Practice\\00.Practice.csproj|solutionrelative:00.practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5BFE5C-2515-4A79-B1DF-C3C882B40704}|01.ForLoopFirstNNumbersSum\\01.ForLoopFirstNNumbersSum.csproj|c:\\programmingforqajan\\xx.practicejam\\01.forloopfirstnnumberssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5BFE5C-2515-4A79-B1DF-C3C882B40704}|01.ForLoopFirstNNumbersSum\\01.ForLoopFirstNNumbersSum.csproj|solutionrelative:01.forloopfirstnnumberssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C485CE-0326-4AFC-A3D2-15D28D5B209B}|02.ForLoopSumNumbers\\02.ForLoopSumNumbers.csproj|c:\\programmingforqajan\\xx.practicejam\\02.forloopsumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C485CE-0326-4AFC-A3D2-15D28D5B209B}|02.ForLoopSumNumbers\\02.ForLoopSumNumbers.csproj|solutionrelative:02.forloopsumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B998A37-8C93-4F06-9FC4-E99118114895}|03.ForLoopNumbersEndingInSeven\\03.ForLoopNumbersEndingInSeven.csproj|c:\\programmingforqajan\\xx.practicejam\\03.forloopnumbersendinginseven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B998A37-8C93-4F06-9FC4-E99118114895}|03.ForLoopNumbersEndingInSeven\\03.ForLoopNumbersEndingInSeven.csproj|solutionrelative:03.forloopnumbersendinginseven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF10E81C-79AA-4E8F-BB72-14CD5CF1981B}|04.ForLoopNumbers FromOneToNOverThree\\04.ForLoopNumbers FromOneToNOverThree.csproj|c:\\programmingforqajan\\xx.practicejam\\04.forloopnumbers fromonetonoverthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF10E81C-79AA-4E8F-BB72-14CD5CF1981B}|04.ForLoopNumbers FromOneToNOverThree\\04.ForLoopNumbers FromOneToNOverThree.csproj|solutionrelative:04.forloopnumbers fromonetonoverthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC04C94-6272-474E-B67D-5518471E7265}|05.FoorLoopExamCountdown\\05.FoorLoopExamCountdown.csproj|c:\\programmingforqajan\\xx.practicejam\\05.foorloopexamcountdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC04C94-6272-474E-B67D-5518471E7265}|05.FoorLoopExamCountdown\\05.FoorLoopExamCountdown.csproj|solutionrelative:05.foorloopexamcountdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F220F13-6780-4775-9945-5CEBCC9BB0EE}|06.ForLoopLatinLetters\\06.ForLoopLatinLetters.csproj|c:\\programmingforqajan\\xx.practicejam\\06.forlooplatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F220F13-6780-4775-9945-5CEBCC9BB0EE}|06.ForLoopLatinLetters\\06.ForLoopLatinLetters.csproj|solutionrelative:06.forlooplatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CA3E4-CAA4-4F63-A748-EA2D26695E56}|07.WhileLoopNumbersOneToHundred\\07.WhileLoopNumbersOneToHundred.csproj|c:\\programmingforqajan\\xx.practicejam\\07.whileloopnumbersonetohundred\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CA3E4-CAA4-4F63-A748-EA2D26695E56}|07.WhileLoopNumbersOneToHundred\\07.WhileLoopNumbersOneToHundred.csproj|solutionrelative:07.whileloopnumbersonetohundred\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E7FD3C-B975-4350-A23C-314B771158B0}|08.WhileLoopDecreasingNumbers\\08.WhileLoopDecreasingNumbers.csproj|c:\\programmingforqajan\\xx.practicejam\\08.whileloopdecreasingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E7FD3C-B975-4350-A23C-314B771158B0}|08.WhileLoopDecreasingNumbers\\08.WhileLoopDecreasingNumbers.csproj|solutionrelative:08.whileloopdecreasingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4814407C-1671-4211-8B14-D6BA08AABD75}|09.WhileLoopOddNumber\\09.WhileLoopOddNumber.csproj|c:\\programmingforqajan\\xx.practicejam\\09.whileloopoddnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4814407C-1671-4211-8B14-D6BA08AABD75}|09.WhileLoopOddNumber\\09.WhileLoopOddNumber.csproj|solutionrelative:09.whileloopoddnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2900F5-90D4-4106-B5CE-6F60E603C9DF}|10.WhileLoopSequence2kPlusOne\\10.WhileLoopSequence2kPlusOne.csproj|c:\\programmingforqajan\\xx.practicejam\\10.whileloopsequence2kplusone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2900F5-90D4-4106-B5CE-6F60E603C9DF}|10.WhileLoopSequence2kPlusOne\\10.WhileLoopSequence2kPlusOne.csproj|solutionrelative:10.whileloopsequence2kplusone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\14.LoopsExPowerOfNumber\\Program.cs",
+              "RelativeDocumentMoniker": "14.LoopsExPowerOfNumber\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\14.LoopsExPowerOfNumber\\Program.cs",
+              "RelativeToolTip": "14.LoopsExPowerOfNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:19:51.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\13.WhileLoopNumberProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "13.WhileLoopNumberProcessor\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\13.WhileLoopNumberProcessor\\Program.cs",
+              "RelativeToolTip": "13.WhileLoopNumberProcessor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:43:16.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\12.WhileLoopNumberInRange\\Program.cs",
+              "RelativeDocumentMoniker": "12.WhileLoopNumberInRange\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\12.WhileLoopNumberInRange\\Program.cs",
+              "RelativeToolTip": "12.WhileLoopNumberInRange\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T12:20:17.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\11.WhileLoopSumDigits\\Program.cs",
+              "RelativeDocumentMoniker": "11.WhileLoopSumDigits\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\11.WhileLoopSumDigits\\Program.cs",
+              "RelativeToolTip": "11.WhileLoopSumDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:21:45.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\10.WhileLoopSequence2kPlusOne\\Program.cs",
+              "RelativeDocumentMoniker": "10.WhileLoopSequence2kPlusOne\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\10.WhileLoopSequence2kPlusOne\\Program.cs",
+              "RelativeToolTip": "10.WhileLoopSequence2kPlusOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:09:28.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\09.WhileLoopOddNumber\\Program.cs",
+              "RelativeDocumentMoniker": "09.WhileLoopOddNumber\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\09.WhileLoopOddNumber\\Program.cs",
+              "RelativeToolTip": "09.WhileLoopOddNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:58:06.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\08.WhileLoopDecreasingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "08.WhileLoopDecreasingNumbers\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\08.WhileLoopDecreasingNumbers\\Program.cs",
+              "RelativeToolTip": "08.WhileLoopDecreasingNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:55:20.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\07.WhileLoopNumbersOneToHundred\\Program.cs",
+              "RelativeDocumentMoniker": "07.WhileLoopNumbersOneToHundred\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\07.WhileLoopNumbersOneToHundred\\Program.cs",
+              "RelativeToolTip": "07.WhileLoopNumbersOneToHundred\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:50:36.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\06.ForLoopLatinLetters\\Program.cs",
+              "RelativeDocumentMoniker": "06.ForLoopLatinLetters\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\06.ForLoopLatinLetters\\Program.cs",
+              "RelativeToolTip": "06.ForLoopLatinLetters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:42:08.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\05.FoorLoopExamCountdown\\Program.cs",
+              "RelativeDocumentMoniker": "05.FoorLoopExamCountdown\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\05.FoorLoopExamCountdown\\Program.cs",
+              "RelativeToolTip": "05.FoorLoopExamCountdown\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:36:06.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\04.ForLoopNumbers FromOneToNOverThree\\Program.cs",
+              "RelativeDocumentMoniker": "04.ForLoopNumbers FromOneToNOverThree\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\04.ForLoopNumbers FromOneToNOverThree\\Program.cs",
+              "RelativeToolTip": "04.ForLoopNumbers FromOneToNOverThree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:34:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\03.ForLoopNumbersEndingInSeven\\Program.cs",
+              "RelativeDocumentMoniker": "03.ForLoopNumbersEndingInSeven\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\03.ForLoopNumbersEndingInSeven\\Program.cs",
+              "RelativeToolTip": "03.ForLoopNumbersEndingInSeven\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:31:19.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\02.ForLoopSumNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "02.ForLoopSumNumbers\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\02.ForLoopSumNumbers\\Program.cs",
+              "RelativeToolTip": "02.ForLoopSumNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:27:38.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\01.ForLoopFirstNNumbersSum\\Program.cs",
+              "RelativeDocumentMoniker": "01.ForLoopFirstNNumbersSum\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\01.ForLoopFirstNNumbersSum\\Program.cs",
+              "RelativeToolTip": "01.ForLoopFirstNNumbersSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:10:52.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\00.Practice\\Program.cs",
+              "RelativeDocumentMoniker": "00.Practice\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\xx.PracticeJam\\00.Practice\\Program.cs",
+              "RelativeToolTip": "00.Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:06:43.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

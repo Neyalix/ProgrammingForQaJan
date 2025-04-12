@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\10.NestedLoops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{371778CD-D9AC-4E17-AA56-DEAAB15155D9}|07.SumOfDigitsCalculator\\07.SumOfDigitsCalculator.csproj|c:\\programmingforqajan\\10.nestedloops\\07.sumofdigitscalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371778CD-D9AC-4E17-AA56-DEAAB15155D9}|07.SumOfDigitsCalculator\\07.SumOfDigitsCalculator.csproj|solutionrelative:07.sumofdigitscalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C11AD4-488E-47C0-8742-2E8A53ECD2C0}|06.TravelSavings\\06.TravelSavings.csproj|c:\\programmingforqajan\\10.nestedloops\\06.travelsavings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C11AD4-488E-47C0-8742-2E8A53ECD2C0}|06.TravelSavings\\06.TravelSavings.csproj|solutionrelative:06.travelsavings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A13685-19CD-4A99-A915-E49FA54AD030}|05.NumberPyramid\\05.NumberPyramid.csproj|c:\\programmingforqajan\\10.nestedloops\\05.numberpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A13685-19CD-4A99-A915-E49FA54AD030}|05.NumberPyramid\\05.NumberPyramid.csproj|solutionrelative:05.numberpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1031AF57-7AF7-4777-B01A-FC7B760386AB}|04.Building\\04.Building.csproj|c:\\programmingforqajan\\10.nestedloops\\04.building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1031AF57-7AF7-4777-B01A-FC7B760386AB}|04.Building\\04.Building.csproj|solutionrelative:04.building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1C1B651-39BC-42E6-A7F4-6DCC9C4BE742}|03.TriangleOfStars\\03.TriangleOfStars.csproj|c:\\programmingforqajan\\10.nestedloops\\03.triangleofstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C1B651-39BC-42E6-A7F4-6DCC9C4BE742}|03.TriangleOfStars\\03.TriangleOfStars.csproj|solutionrelative:03.triangleofstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9BFEA8-1B01-468D-83A0-11A359614424}|00.Demo\\00.Demo.csproj|c:\\programmingforqajan\\10.nestedloops\\00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9BFEA8-1B01-468D-83A0-11A359614424}|00.Demo\\00.Demo.csproj|solutionrelative:00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D57FBF3-2F16-416F-8953-F760C2F0AF7D}|01. NumbersFromNToOne\\01. NumbersFromNToOne.csproj|c:\\programmingforqajan\\10.nestedloops\\01. numbersfromntoone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D57FBF3-2F16-416F-8953-F760C2F0AF7D}|01. NumbersFromNToOne\\01. NumbersFromNToOne.csproj|solutionrelative:01. numbersfromntoone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA457FD-16D2-4EF8-A40A-2DA735F6FB46}|02.EvenPowersOfTwo\\02.EvenPowersOfTwo.csproj|c:\\programmingforqajan\\10.nestedloops\\02.evenpowersoftwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA457FD-16D2-4EF8-A40A-2DA735F6FB46}|02.EvenPowersOfTwo\\02.EvenPowersOfTwo.csproj|solutionrelative:02.evenpowersoftwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\10.NestedLoops\\07.SumOfDigitsCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "07.SumOfDigitsCalculator\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\10.NestedLoops\\07.SumOfDigitsCalculator\\Program.cs*",
+              "RelativeToolTip": "07.SumOfDigitsCalculator\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:45:04.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\10.NestedLoops\\06.TravelSavings\\Program.cs",
+              "RelativeDocumentMoniker": "06.TravelSavings\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\10.NestedLoops\\06.TravelSavings\\Program.cs",
+              "RelativeToolTip": "06.TravelSavings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:14:48.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\10.NestedLoops\\05.NumberPyramid\\Program.cs",
+              "RelativeDocumentMoniker": "05.NumberPyramid\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\10.NestedLoops\\05.NumberPyramid\\Program.cs",
+              "RelativeToolTip": "05.NumberPyramid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:51:35.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\10.NestedLoops\\04.Building\\Program.cs",
+              "RelativeDocumentMoniker": "04.Building\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\10.NestedLoops\\04.Building\\Program.cs",
+              "RelativeToolTip": "04.Building\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:10:37.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\10.NestedLoops\\03.TriangleOfStars\\Program.cs",
+              "RelativeDocumentMoniker": "03.TriangleOfStars\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\10.NestedLoops\\03.TriangleOfStars\\Program.cs",
+              "RelativeToolTip": "03.TriangleOfStars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:04:25.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\10.NestedLoops\\02.EvenPowersOfTwo\\Program.cs",
+              "RelativeDocumentMoniker": "02.EvenPowersOfTwo\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\10.NestedLoops\\02.EvenPowersOfTwo\\Program.cs",
+              "RelativeToolTip": "02.EvenPowersOfTwo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:44:11.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\10.NestedLoops\\01. NumbersFromNToOne\\Program.cs",
+              "RelativeDocumentMoniker": "01. NumbersFromNToOne\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\10.NestedLoops\\01. NumbersFromNToOne\\Program.cs",
+              "RelativeToolTip": "01. NumbersFromNToOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:30:52.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\10.NestedLoops\\00.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "00.Demo\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\10.NestedLoops\\00.Demo\\Program.cs",
+              "RelativeToolTip": "00.Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:21:17.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

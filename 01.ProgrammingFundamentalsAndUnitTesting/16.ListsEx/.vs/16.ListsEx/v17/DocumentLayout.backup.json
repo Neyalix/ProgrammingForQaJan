@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\16.ListsEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51AA4410-9EB8-4D26-BB00-99C969058F01}|05.BombNumbers\\05.BombNumbers.csproj|c:\\programmingforqajan\\16.listsex\\05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AA4410-9EB8-4D26-BB00-99C969058F01}|05.BombNumbers\\05.BombNumbers.csproj|solutionrelative:05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FAE040-1448-4B43-84EC-E43E7DF8FB4C}|03.ListOperations\\03.ListOperations.csproj|c:\\programmingforqajan\\16.listsex\\03.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FAE040-1448-4B43-84EC-E43E7DF8FB4C}|03.ListOperations\\03.ListOperations.csproj|solutionrelative:03.listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B78FF18-175B-4192-BBEF-938CA89A93AF}|02.HouseParty\\02.HouseParty.csproj|c:\\programmingforqajan\\16.listsex\\02.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B78FF18-175B-4192-BBEF-938CA89A93AF}|02.HouseParty\\02.HouseParty.csproj|solutionrelative:02.houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DEA753-0780-4082-8B9B-C26F321298C0}|01.ChangeList\\01.ChangeList.csproj|c:\\programmingforqajan\\16.listsex\\01.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DEA753-0780-4082-8B9B-C26F321298C0}|01.ChangeList\\01.ChangeList.csproj|solutionrelative:01.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF190108-F204-42A2-B94B-C21A5F3FD649}|04.ListManipulationBasics\\04.ListManipulationBasics.csproj|c:\\programmingforqajan\\16.listsex\\04.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF190108-F204-42A2-B94B-C21A5F3FD649}|04.ListManipulationBasics\\04.ListManipulationBasics.csproj|solutionrelative:04.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\16.ListsEx\\05.BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.BombNumbers\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\16.ListsEx\\05.BombNumbers\\Program.cs",
+              "RelativeToolTip": "05.BombNumbers\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:54:39.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\16.ListsEx\\04.ListManipulationBasics\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListManipulationBasics\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\16.ListsEx\\04.ListManipulationBasics\\Program.cs",
+              "RelativeToolTip": "04.ListManipulationBasics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:40:46.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\16.ListsEx\\03.ListOperations\\Program.cs",
+              "RelativeDocumentMoniker": "03.ListOperations\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\16.ListsEx\\03.ListOperations\\Program.cs",
+              "RelativeToolTip": "03.ListOperations\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:40:16.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\16.ListsEx\\02.HouseParty\\Program.cs",
+              "RelativeDocumentMoniker": "02.HouseParty\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\16.ListsEx\\02.HouseParty\\Program.cs",
+              "RelativeToolTip": "02.HouseParty\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:59:05.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\16.ListsEx\\01.ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "01.ChangeList\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\16.ListsEx\\01.ChangeList\\Program.cs",
+              "RelativeToolTip": "01.ChangeList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:33:01.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

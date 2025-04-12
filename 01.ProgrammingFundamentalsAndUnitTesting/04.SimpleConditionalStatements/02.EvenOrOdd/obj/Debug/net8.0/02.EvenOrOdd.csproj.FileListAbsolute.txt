@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net8.0\02.EvenOrOdd.exe
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net8.0\02.EvenOrOdd.deps.json
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net8.0\02.EvenOrOdd.runtimeconfig.json
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net8.0\02.EvenOrOdd.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\bin\Debug\net8.0\02.EvenOrOdd.pdb
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net8.0\02.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net8.0\02.EvenOrOdd.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net8.0\02.EvenOrOdd.AssemblyInfo.cs
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net8.0\02.EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net8.0\02.EvenOrOdd.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net8.0\refint\02.EvenOrOdd.dll
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net8.0\02.EvenOrOdd.pdb
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net8.0\02.EvenOrOdd.genruntimeconfig.cache
+C:\ProgrammingForQaJan\SimpleConditionalStatements\02.EvenOrOdd\obj\Debug\net8.0\ref\02.EvenOrOdd.dll

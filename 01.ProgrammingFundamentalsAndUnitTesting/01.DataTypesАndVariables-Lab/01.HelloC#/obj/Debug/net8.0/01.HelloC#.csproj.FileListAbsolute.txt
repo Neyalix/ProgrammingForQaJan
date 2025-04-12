@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\bin\Debug\net8.0\01.HelloC#.exe
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\bin\Debug\net8.0\01.HelloC#.deps.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\bin\Debug\net8.0\01.HelloC#.runtimeconfig.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\bin\Debug\net8.0\01.HelloC#.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\bin\Debug\net8.0\01.HelloC#.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\obj\Debug\net8.0\01.HelloC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\obj\Debug\net8.0\01.HelloC#.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\obj\Debug\net8.0\01.HelloC#.AssemblyInfo.cs
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\obj\Debug\net8.0\01.HelloC#.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\obj\Debug\net8.0\01.HelloC#.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\obj\Debug\net8.0\refint\01.HelloC#.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\obj\Debug\net8.0\01.HelloC#.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\obj\Debug\net8.0\01.HelloC#.genruntimeconfig.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\01.HelloC#\obj\Debug\net8.0\ref\01.HelloC#.dll

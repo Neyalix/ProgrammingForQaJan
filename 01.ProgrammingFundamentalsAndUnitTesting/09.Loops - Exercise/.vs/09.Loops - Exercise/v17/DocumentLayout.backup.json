@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF84DBC-3BAD-4971-8CAF-9BC13F3BAF09}|08.AccountBalance\\08.AccountBalance.csproj|c:\\programmingforqajan\\09.loops - exercise\\08.accountbalance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF84DBC-3BAD-4971-8CAF-9BC13F3BAF09}|08.AccountBalance\\08.AccountBalance.csproj|solutionrelative:08.accountbalance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07697C3A-003C-404E-B7A3-34DFE9C2BE52}|07.SpecialBonus\\07.SpecialBonus.csproj|c:\\programmingforqajan\\09.loops - exercise\\07.specialbonus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07697C3A-003C-404E-B7A3-34DFE9C2BE52}|07.SpecialBonus\\07.SpecialBonus.csproj|solutionrelative:07.specialbonus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB307E6C-2945-4862-9CAE-E77AB500FFFC}|06.SpecialNumber\\06.SpecialNumber.csproj|c:\\programmingforqajan\\09.loops - exercise\\06.specialnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB307E6C-2945-4862-9CAE-E77AB500FFFC}|06.SpecialNumber\\06.SpecialNumber.csproj|solutionrelative:06.specialnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747B636C-E39F-4405-970C-0731EF7DBC68}|05.DivisionBy\\05.DivisionBy.csproj|c:\\programmingforqajan\\09.loops - exercise\\05.divisionby\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747B636C-E39F-4405-970C-0731EF7DBC68}|05.DivisionBy\\05.DivisionBy.csproj|solutionrelative:05.divisionby\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE30C4A-2E03-4A6D-A3E0-EF273F0CB860}|04.VowelSum\\04.VowelSum.csproj|c:\\programmingforqajan\\09.loops - exercise\\04.vowelsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE30C4A-2E03-4A6D-A3E0-EF273F0CB860}|04.VowelSum\\04.VowelSum.csproj|solutionrelative:04.vowelsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA3E67-4B39-46E8-B78E-B5CE9979F89F}|02.MultiplicationTable\\02.MultiplicationTable.csproj|c:\\programmingforqajan\\09.loops - exercise\\02.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA3E67-4B39-46E8-B78E-B5CE9979F89F}|02.MultiplicationTable\\02.MultiplicationTable.csproj|solutionrelative:02.multiplicationtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D79814-EA09-4EA0-A7C9-82066303F8FB}|01.PowerOfNumbers\\01.PowerOfNumbers.csproj|c:\\programmingforqajan\\09.loops - exercise\\01.powerofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D79814-EA09-4EA0-A7C9-82066303F8FB}|01.PowerOfNumbers\\01.PowerOfNumbers.csproj|solutionrelative:01.powerofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1966E11D-F728-471A-83B7-5D3A844E46D8}|03.BiggestNumber\\03.BiggestNumber.csproj|c:\\programmingforqajan\\09.loops - exercise\\03.biggestnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1966E11D-F728-471A-83B7-5D3A844E46D8}|03.BiggestNumber\\03.BiggestNumber.csproj|solutionrelative:03.biggestnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\08.AccountBalance\\Program.cs",
+              "RelativeDocumentMoniker": "08.AccountBalance\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\08.AccountBalance\\Program.cs*",
+              "RelativeToolTip": "08.AccountBalance\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:40:37.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\07.SpecialBonus\\Program.cs",
+              "RelativeDocumentMoniker": "07.SpecialBonus\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\07.SpecialBonus\\Program.cs",
+              "RelativeToolTip": "07.SpecialBonus\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:40:12.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\06.SpecialNumber\\Program.cs",
+              "RelativeDocumentMoniker": "06.SpecialNumber\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\06.SpecialNumber\\Program.cs",
+              "RelativeToolTip": "06.SpecialNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:39:53.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\05.DivisionBy\\Program.cs",
+              "RelativeDocumentMoniker": "05.DivisionBy\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\05.DivisionBy\\Program.cs",
+              "RelativeToolTip": "05.DivisionBy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:39:29.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\04.VowelSum\\Program.cs",
+              "RelativeDocumentMoniker": "04.VowelSum\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\04.VowelSum\\Program.cs",
+              "RelativeToolTip": "04.VowelSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:39:01.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\03.BiggestNumber\\Program.cs",
+              "RelativeDocumentMoniker": "03.BiggestNumber\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\03.BiggestNumber\\Program.cs",
+              "RelativeToolTip": "03.BiggestNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:38:35.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\02.MultiplicationTable\\Program.cs",
+              "RelativeDocumentMoniker": "02.MultiplicationTable\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\02.MultiplicationTable\\Program.cs",
+              "RelativeToolTip": "02.MultiplicationTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:01:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\01.PowerOfNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.PowerOfNumbers\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\09.Loops - Exercise\\01.PowerOfNumbers\\Program.cs",
+              "RelativeToolTip": "01.PowerOfNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:37:15.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

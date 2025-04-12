@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\obj\Debug\net8.0\01.qualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\obj\Debug\net8.0\01.qualArrays.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\obj\Debug\net8.0\01.qualArrays.AssemblyInfo.cs
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\obj\Debug\net8.0\01.qualArrays.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\bin\Debug\net8.0\01.qualArrays.exe
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\bin\Debug\net8.0\01.qualArrays.deps.json
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\bin\Debug\net8.0\01.qualArrays.runtimeconfig.json
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\bin\Debug\net8.0\01.qualArrays.dll
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\bin\Debug\net8.0\01.qualArrays.pdb
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\obj\Debug\net8.0\01.qualArrays.dll
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\obj\Debug\net8.0\refint\01.qualArrays.dll
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\obj\Debug\net8.0\01.qualArrays.pdb
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\obj\Debug\net8.0\01.qualArrays.genruntimeconfig.cache
+C:\ProgrammingForQaJan\14.ArraysEx\01.qualArrays\obj\Debug\net8.0\ref\01.qualArrays.dll

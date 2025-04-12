@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\bin\Debug\net8.0\01.PowerOfNumbers.exe
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\bin\Debug\net8.0\01.PowerOfNumbers.deps.json
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\bin\Debug\net8.0\01.PowerOfNumbers.runtimeconfig.json
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\bin\Debug\net8.0\01.PowerOfNumbers.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\bin\Debug\net8.0\01.PowerOfNumbers.pdb
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\obj\Debug\net8.0\01.PowerOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\obj\Debug\net8.0\01.PowerOfNumbers.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\obj\Debug\net8.0\01.PowerOfNumbers.AssemblyInfo.cs
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\obj\Debug\net8.0\01.PowerOfNumbers.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\obj\Debug\net8.0\01.PowerOfNumbers.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\obj\Debug\net8.0\refint\01.PowerOfNumbers.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\obj\Debug\net8.0\01.PowerOfNumbers.pdb
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\obj\Debug\net8.0\01.PowerOfNumbers.genruntimeconfig.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\01.PowerOfNumbers\obj\Debug\net8.0\ref\01.PowerOfNumbers.dll

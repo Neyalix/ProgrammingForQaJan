@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\bin\Debug\net8.0\02.EvenPowersOfTwo.exe
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\bin\Debug\net8.0\02.EvenPowersOfTwo.deps.json
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\bin\Debug\net8.0\02.EvenPowersOfTwo.runtimeconfig.json
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\bin\Debug\net8.0\02.EvenPowersOfTwo.dll
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\bin\Debug\net8.0\02.EvenPowersOfTwo.pdb
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.AssemblyInfo.cs
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.dll
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\obj\Debug\net8.0\refint\02.EvenPowersOfTwo.dll
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.pdb
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\obj\Debug\net8.0\02.EvenPowersOfTwo.genruntimeconfig.cache
+C:\ProgrammingForQaJan\10.NestedLoops\02.EvenPowersOfTwo\obj\Debug\net8.0\ref\02.EvenPowersOfTwo.dll

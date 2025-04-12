@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\04.DictionariesLambdaLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240CA539-9FC6-42E8-A89F-B2EF123AE74B}|01.CountRealNumbers\\01.CountRealNumbers.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\04.dictionarieslambdalinq\\01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240CA539-9FC6-42E8-A89F-B2EF123AE74B}|01.CountRealNumbers\\01.CountRealNumbers.csproj|solutionrelative:01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B741D1-4FDD-495A-B1F0-569DADF206A8}|00.Demo\\00.Demo.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\04.dictionarieslambdalinq\\00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B741D1-4FDD-495A-B1F0-569DADF206A8}|00.Demo\\00.Demo.csproj|solutionrelative:00.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\04.DictionariesLambdaLINQ\\01.CountRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountRealNumbers\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\04.DictionariesLambdaLINQ\\01.CountRealNumbers\\Program.cs",
+              "RelativeToolTip": "01.CountRealNumbers\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:24:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\04.DictionariesLambdaLINQ\\00.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "00.Demo\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\04.DictionariesLambdaLINQ\\00.Demo\\Program.cs",
+              "RelativeToolTip": "00.Demo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:45:10.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

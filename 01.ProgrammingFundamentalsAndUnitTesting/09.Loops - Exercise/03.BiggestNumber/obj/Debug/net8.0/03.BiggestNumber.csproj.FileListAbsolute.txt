@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\bin\Debug\net8.0\03.BiggestNumber.exe
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\bin\Debug\net8.0\03.BiggestNumber.deps.json
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\bin\Debug\net8.0\03.BiggestNumber.runtimeconfig.json
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\bin\Debug\net8.0\03.BiggestNumber.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\bin\Debug\net8.0\03.BiggestNumber.pdb
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.AssemblyInfo.cs
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\obj\Debug\net8.0\refint\03.BiggestNumber.dll
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.pdb
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\obj\Debug\net8.0\03.BiggestNumber.genruntimeconfig.cache
+C:\ProgrammingForQaJan\09.Loops - Exercise\03.BiggestNumber\obj\Debug\net8.0\ref\03.BiggestNumber.dll

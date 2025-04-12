@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\bin\Debug\net8.0\08.FruitOrVegetable.exe
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\bin\Debug\net8.0\08.FruitOrVegetable.deps.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\bin\Debug\net8.0\08.FruitOrVegetable.runtimeconfig.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\bin\Debug\net8.0\08.FruitOrVegetable.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\bin\Debug\net8.0\08.FruitOrVegetable.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.AssemblyInfo.cs
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\obj\Debug\net8.0\refint\08.FruitOrVegetable.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\obj\Debug\net8.0\08.FruitOrVegetable.genruntimeconfig.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\08.FruitOrVegetable\obj\Debug\net8.0\ref\08.FruitOrVegetable.dll

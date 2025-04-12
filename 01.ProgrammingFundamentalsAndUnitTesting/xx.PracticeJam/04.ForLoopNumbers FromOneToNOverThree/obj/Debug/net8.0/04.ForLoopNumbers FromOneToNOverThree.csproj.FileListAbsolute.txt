@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\bin\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.exe
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\bin\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.deps.json
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\bin\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.runtimeconfig.json
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\bin\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\bin\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\obj\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\obj\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\obj\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.AssemblyInfo.cs
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\obj\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\obj\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\obj\Debug\net8.0\refint\04.ForLoopNumbers FromOneToNOverThree.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\obj\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\obj\Debug\net8.0\04.ForLoopNumbers FromOneToNOverThree.genruntimeconfig.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\04.ForLoopNumbers FromOneToNOverThree\obj\Debug\net8.0\ref\04.ForLoopNumbers FromOneToNOverThree.dll

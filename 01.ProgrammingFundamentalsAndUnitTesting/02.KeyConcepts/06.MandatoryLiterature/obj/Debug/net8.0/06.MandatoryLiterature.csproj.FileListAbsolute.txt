@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.exe
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.deps.json
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.runtimeconfig.json
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\bin\Debug\net8.0\06.MandatoryLiterature.pdb
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\obj\Debug\net8.0\refint\06.MandatoryLiterature.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.pdb
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\obj\Debug\net8.0\06.MandatoryLiterature.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\06.MandatoryLiterature\obj\Debug\net8.0\ref\06.MandatoryLiterature.dll

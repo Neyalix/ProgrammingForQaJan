@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\bin\Debug\net8.0\02.ListOfProducts.exe
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\bin\Debug\net8.0\02.ListOfProducts.deps.json
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\bin\Debug\net8.0\02.ListOfProducts.runtimeconfig.json
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\bin\Debug\net8.0\02.ListOfProducts.dll
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\bin\Debug\net8.0\02.ListOfProducts.pdb
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\obj\Debug\net8.0\02.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\obj\Debug\net8.0\02.ListOfProducts.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\obj\Debug\net8.0\02.ListOfProducts.AssemblyInfo.cs
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\obj\Debug\net8.0\02.ListOfProducts.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\obj\Debug\net8.0\02.ListOfProducts.dll
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\obj\Debug\net8.0\refint\02.ListOfProducts.dll
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\obj\Debug\net8.0\02.ListOfProducts.pdb
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\obj\Debug\net8.0\02.ListOfProducts.genruntimeconfig.cache
+C:\ProgrammingForQaJan\15.ListsLab\02.ListOfProducts\obj\Debug\net8.0\ref\02.ListOfProducts.dll

@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\obj\Debug\net8.0\03.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\obj\Debug\net8.0\03.Orders.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\obj\Debug\net8.0\03.Orders.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\obj\Debug\net8.0\03.Orders.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\bin\Debug\net8.0\03.Orders.exe
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\bin\Debug\net8.0\03.Orders.deps.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\bin\Debug\net8.0\03.Orders.runtimeconfig.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\bin\Debug\net8.0\03.Orders.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\bin\Debug\net8.0\03.Orders.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\obj\Debug\net8.0\03.Orders.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\obj\Debug\net8.0\refint\03.Orders.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\obj\Debug\net8.0\03.Orders.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\obj\Debug\net8.0\03.Orders.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\05,DictionariesLambdaAndLINQExercise\03.Orders\obj\Debug\net8.0\ref\03.Orders.dll

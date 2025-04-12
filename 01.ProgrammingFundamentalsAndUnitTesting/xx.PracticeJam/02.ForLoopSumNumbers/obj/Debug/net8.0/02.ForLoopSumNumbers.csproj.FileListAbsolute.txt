@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\bin\Debug\net8.0\02.ForLoopSumNumbers.exe
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\bin\Debug\net8.0\02.ForLoopSumNumbers.deps.json
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\bin\Debug\net8.0\02.ForLoopSumNumbers.runtimeconfig.json
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\bin\Debug\net8.0\02.ForLoopSumNumbers.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\bin\Debug\net8.0\02.ForLoopSumNumbers.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\obj\Debug\net8.0\02.ForLoopSumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\obj\Debug\net8.0\02.ForLoopSumNumbers.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\obj\Debug\net8.0\02.ForLoopSumNumbers.AssemblyInfo.cs
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\obj\Debug\net8.0\02.ForLoopSumNumbers.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\obj\Debug\net8.0\02.ForLoopSumNumbers.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\obj\Debug\net8.0\refint\02.ForLoopSumNumbers.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\obj\Debug\net8.0\02.ForLoopSumNumbers.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\obj\Debug\net8.0\02.ForLoopSumNumbers.genruntimeconfig.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\02.ForLoopSumNumbers\obj\Debug\net8.0\ref\02.ForLoopSumNumbers.dll

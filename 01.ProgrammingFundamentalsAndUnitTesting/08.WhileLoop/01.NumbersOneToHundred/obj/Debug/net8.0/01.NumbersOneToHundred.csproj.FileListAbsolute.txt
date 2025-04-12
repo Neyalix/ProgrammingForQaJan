@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\bin\Debug\net8.0\01.NumbersOneToHundred.exe
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\bin\Debug\net8.0\01.NumbersOneToHundred.deps.json
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\bin\Debug\net8.0\01.NumbersOneToHundred.runtimeconfig.json
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\bin\Debug\net8.0\01.NumbersOneToHundred.dll
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\bin\Debug\net8.0\01.NumbersOneToHundred.pdb
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\obj\Debug\net8.0\01.NumbersOneToHundred.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\obj\Debug\net8.0\01.NumbersOneToHundred.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\obj\Debug\net8.0\01.NumbersOneToHundred.AssemblyInfo.cs
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\obj\Debug\net8.0\01.NumbersOneToHundred.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\obj\Debug\net8.0\01.NumbersOneToHundred.dll
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\obj\Debug\net8.0\refint\01.NumbersOneToHundred.dll
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\obj\Debug\net8.0\01.NumbersOneToHundred.pdb
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\obj\Debug\net8.0\01.NumbersOneToHundred.genruntimeconfig.cache
+C:\ProgrammingForQaJan\08.WhileLoop\01.NumbersOneToHundred\obj\Debug\net8.0\ref\01.NumbersOneToHundred.dll

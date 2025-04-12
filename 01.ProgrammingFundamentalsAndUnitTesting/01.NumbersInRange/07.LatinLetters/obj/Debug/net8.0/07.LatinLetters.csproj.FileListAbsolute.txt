@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.exe
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.deps.json
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.runtimeconfig.json
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.pdb
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.AssemblyInfo.cs
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\obj\Debug\net8.0\refint\07.LatinLetters.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.pdb
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.genruntimeconfig.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\07.LatinLetters\obj\Debug\net8.0\ref\07.LatinLetters.dll

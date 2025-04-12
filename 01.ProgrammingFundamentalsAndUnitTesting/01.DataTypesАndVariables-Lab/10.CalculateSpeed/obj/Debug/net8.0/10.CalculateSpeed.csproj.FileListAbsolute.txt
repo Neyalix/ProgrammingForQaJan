@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\bin\Debug\net8.0\10.CalculateSpeed.exe
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\bin\Debug\net8.0\10.CalculateSpeed.deps.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\bin\Debug\net8.0\10.CalculateSpeed.runtimeconfig.json
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\bin\Debug\net8.0\10.CalculateSpeed.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\bin\Debug\net8.0\10.CalculateSpeed.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\obj\Debug\net8.0\10.CalculateSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\obj\Debug\net8.0\10.CalculateSpeed.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\obj\Debug\net8.0\10.CalculateSpeed.AssemblyInfo.cs
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\obj\Debug\net8.0\10.CalculateSpeed.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\obj\Debug\net8.0\10.CalculateSpeed.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\obj\Debug\net8.0\refint\10.CalculateSpeed.dll
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\obj\Debug\net8.0\10.CalculateSpeed.pdb
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\obj\Debug\net8.0\10.CalculateSpeed.genruntimeconfig.cache
+C:\ProgrammingForQaJan\DataTypesАndVariables-Lab\10.CalculateSpeed\obj\Debug\net8.0\ref\10.CalculateSpeed.dll

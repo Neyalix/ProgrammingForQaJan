@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\bin\Debug\net8.0\02.ATM.exe
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\bin\Debug\net8.0\02.ATM.deps.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\bin\Debug\net8.0\02.ATM.runtimeconfig.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\bin\Debug\net8.0\02.ATM.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\bin\Debug\net8.0\02.ATM.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\obj\Debug\net8.0\02.ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\obj\Debug\net8.0\02.ATM.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\obj\Debug\net8.0\02.ATM.AssemblyInfo.cs
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\obj\Debug\net8.0\02.ATM.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\obj\Debug\net8.0\02.ATM.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\obj\Debug\net8.0\refint\02.ATM.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\obj\Debug\net8.0\02.ATM.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\obj\Debug\net8.0\02.ATM.genruntimeconfig.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\02.ATM\obj\Debug\net8.0\ref\02.ATM.dll

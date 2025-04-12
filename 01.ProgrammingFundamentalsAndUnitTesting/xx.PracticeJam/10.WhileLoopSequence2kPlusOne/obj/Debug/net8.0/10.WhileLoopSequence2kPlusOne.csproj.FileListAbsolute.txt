@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\bin\Debug\net8.0\10.WhileLoopSequence2kPlusOne.exe
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\bin\Debug\net8.0\10.WhileLoopSequence2kPlusOne.deps.json
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\bin\Debug\net8.0\10.WhileLoopSequence2kPlusOne.runtimeconfig.json
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\bin\Debug\net8.0\10.WhileLoopSequence2kPlusOne.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\bin\Debug\net8.0\10.WhileLoopSequence2kPlusOne.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\obj\Debug\net8.0\10.WhileLoopSequence2kPlusOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\obj\Debug\net8.0\10.WhileLoopSequence2kPlusOne.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\obj\Debug\net8.0\10.WhileLoopSequence2kPlusOne.AssemblyInfo.cs
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\obj\Debug\net8.0\10.WhileLoopSequence2kPlusOne.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\obj\Debug\net8.0\10.WhileLoopSequence2kPlusOne.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\obj\Debug\net8.0\refint\10.WhileLoopSequence2kPlusOne.dll
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\obj\Debug\net8.0\10.WhileLoopSequence2kPlusOne.pdb
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\obj\Debug\net8.0\10.WhileLoopSequence2kPlusOne.genruntimeconfig.cache
+C:\ProgrammingForQaJan\xx.PracticeJam\10.WhileLoopSequence2kPlusOne\obj\Debug\net8.0\ref\10.WhileLoopSequence2kPlusOne.dll

@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\ProgrammingForQaJan\DemoFirstStepsInCoding\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

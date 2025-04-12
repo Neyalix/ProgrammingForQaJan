@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\bin\Debug\net8.0\04.NumberOperations.exe
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\bin\Debug\net8.0\04.NumberOperations.deps.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\bin\Debug\net8.0\04.NumberOperations.runtimeconfig.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\bin\Debug\net8.0\04.NumberOperations.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\bin\Debug\net8.0\04.NumberOperations.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\obj\Debug\net8.0\04.NumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\obj\Debug\net8.0\04.NumberOperations.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\obj\Debug\net8.0\04.NumberOperations.AssemblyInfo.cs
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\obj\Debug\net8.0\04.NumberOperations.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\obj\Debug\net8.0\04.NumberOperations.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\obj\Debug\net8.0\refint\04.NumberOperations.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\obj\Debug\net8.0\04.NumberOperations.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\obj\Debug\net8.0\04.NumberOperations.genruntimeconfig.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\04.NumberOperations\obj\Debug\net8.0\ref\04.NumberOperations.dll

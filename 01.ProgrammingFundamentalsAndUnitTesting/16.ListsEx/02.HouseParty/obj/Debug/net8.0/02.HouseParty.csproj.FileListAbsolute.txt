@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\obj\Debug\net8.0\02.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\obj\Debug\net8.0\02.HouseParty.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\obj\Debug\net8.0\02.HouseParty.AssemblyInfo.cs
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\obj\Debug\net8.0\02.HouseParty.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\bin\Debug\net8.0\02.HouseParty.exe
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\bin\Debug\net8.0\02.HouseParty.deps.json
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\bin\Debug\net8.0\02.HouseParty.runtimeconfig.json
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\bin\Debug\net8.0\02.HouseParty.dll
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\bin\Debug\net8.0\02.HouseParty.pdb
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\obj\Debug\net8.0\02.HouseParty.dll
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\obj\Debug\net8.0\refint\02.HouseParty.dll
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\obj\Debug\net8.0\02.HouseParty.pdb
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\obj\Debug\net8.0\02.HouseParty.genruntimeconfig.cache
+C:\ProgrammingForQaJan\16.ListsEx\02.HouseParty\obj\Debug\net8.0\ref\02.HouseParty.dll

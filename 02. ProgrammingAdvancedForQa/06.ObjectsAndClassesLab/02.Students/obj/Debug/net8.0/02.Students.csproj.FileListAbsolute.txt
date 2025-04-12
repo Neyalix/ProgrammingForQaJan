@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\bin\Debug\net8.0\02.Students.exe
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\bin\Debug\net8.0\02.Students.deps.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\bin\Debug\net8.0\02.Students.runtimeconfig.json
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\bin\Debug\net8.0\02.Students.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\bin\Debug\net8.0\02.Students.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\obj\Debug\net8.0\02.Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\obj\Debug\net8.0\02.Students.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\obj\Debug\net8.0\02.Students.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\obj\Debug\net8.0\02.Students.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\obj\Debug\net8.0\02.Students.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\obj\Debug\net8.0\refint\02.Students.dll
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\obj\Debug\net8.0\02.Students.pdb
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\obj\Debug\net8.0\02.Students.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02. ProgrammingAdvancedForQa\06.ObjectsAndClassesLab\02.Students\obj\Debug\net8.0\ref\02.Students.dll

@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.AssemblyInfo.cs
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.exe
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.deps.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.runtimeconfig.json
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net8.0\refint\07.WorkingHours.dll
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.pdb
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.genruntimeconfig.cache
+C:\ProgrammingForQaJan\06.ConditionalStatementsExercise\07.WorkingHours\obj\Debug\net8.0\ref\07.WorkingHours.dll

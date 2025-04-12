@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\11.MethodsLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{781EA66B-3716-423C-90D1-BB3BD11D2028}|04.CalculateRectangleArea\\04.CalculateRectangleArea.csproj|c:\\programmingforqajan\\11.methodslab\\04.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781EA66B-3716-423C-90D1-BB3BD11D2028}|04.CalculateRectangleArea\\04.CalculateRectangleArea.csproj|solutionrelative:04.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9051DE8-C2D6-4358-BC52-A1DC7A8FF3C0}|03.PrintingTriangle\\03.PrintingTriangle.csproj|c:\\programmingforqajan\\11.methodslab\\03.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9051DE8-C2D6-4358-BC52-A1DC7A8FF3C0}|03.PrintingTriangle\\03.PrintingTriangle.csproj|solutionrelative:03.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854295EB-D805-4439-8825-694D8D0C34D1}|01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj|c:\\programmingforqajan\\11.methodslab\\01.signofintegernumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854295EB-D805-4439-8825-694D8D0C34D1}|01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj|solutionrelative:01.signofintegernumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3883B61A-A0AC-4BD7-8110-6B765575C4D3}|02.Grades\\02.Grades.csproj|c:\\programmingforqajan\\11.methodslab\\02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3883B61A-A0AC-4BD7-8110-6B765575C4D3}|02.Grades\\02.Grades.csproj|solutionrelative:02.grades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\11.MethodsLab\\04.CalculateRectangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "04.CalculateRectangleArea\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\11.MethodsLab\\04.CalculateRectangleArea\\Program.cs",
+              "RelativeToolTip": "04.CalculateRectangleArea\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:48:20.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\11.MethodsLab\\03.PrintingTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "03.PrintingTriangle\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\11.MethodsLab\\03.PrintingTriangle\\Program.cs",
+              "RelativeToolTip": "03.PrintingTriangle\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:33:15.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\11.MethodsLab\\02.Grades\\Program.cs",
+              "RelativeDocumentMoniker": "02.Grades\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\11.MethodsLab\\02.Grades\\Program.cs",
+              "RelativeToolTip": "02.Grades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:43:06.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\11.MethodsLab\\01.SignOfIntegerNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.SignOfIntegerNumbers\\Program.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\11.MethodsLab\\01.SignOfIntegerNumbers\\Program.cs",
+              "RelativeToolTip": "01.SignOfIntegerNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:38:44.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\bin\Debug\net8.0\02.FourOperations.exe
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\bin\Debug\net8.0\02.FourOperations.deps.json
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\bin\Debug\net8.0\02.FourOperations.runtimeconfig.json
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\bin\Debug\net8.0\02.FourOperations.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\bin\Debug\net8.0\02.FourOperations.pdb
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\obj\Debug\net8.0\02.FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\obj\Debug\net8.0\02.FourOperations.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\obj\Debug\net8.0\02.FourOperations.AssemblyInfo.cs
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\obj\Debug\net8.0\02.FourOperations.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\obj\Debug\net8.0\02.FourOperations.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\obj\Debug\net8.0\refint\02.FourOperations.dll
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\obj\Debug\net8.0\02.FourOperations.pdb
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\obj\Debug\net8.0\02.FourOperations.genruntimeconfig.cache
+C:\ProgrammingForQaJan\02.KeyConcepts\02.FourOperations\obj\Debug\net8.0\ref\02.FourOperations.dll

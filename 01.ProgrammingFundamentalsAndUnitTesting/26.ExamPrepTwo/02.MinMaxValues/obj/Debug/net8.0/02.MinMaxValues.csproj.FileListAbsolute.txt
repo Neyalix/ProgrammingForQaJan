@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\bin\Debug\net8.0\02.MinMaxValues.exe
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\bin\Debug\net8.0\02.MinMaxValues.deps.json
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\bin\Debug\net8.0\02.MinMaxValues.runtimeconfig.json
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\bin\Debug\net8.0\02.MinMaxValues.dll
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\bin\Debug\net8.0\02.MinMaxValues.pdb
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\obj\Debug\net8.0\02.MinMaxValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\obj\Debug\net8.0\02.MinMaxValues.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\obj\Debug\net8.0\02.MinMaxValues.AssemblyInfo.cs
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\obj\Debug\net8.0\02.MinMaxValues.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\obj\Debug\net8.0\02.MinMaxValues.dll
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\obj\Debug\net8.0\refint\02.MinMaxValues.dll
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\obj\Debug\net8.0\02.MinMaxValues.pdb
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\obj\Debug\net8.0\02.MinMaxValues.genruntimeconfig.cache
+C:\ProgrammingForQaJan\26.ExamPrepTwo\02.MinMaxValues\obj\Debug\net8.0\ref\02.MinMaxValues.dll

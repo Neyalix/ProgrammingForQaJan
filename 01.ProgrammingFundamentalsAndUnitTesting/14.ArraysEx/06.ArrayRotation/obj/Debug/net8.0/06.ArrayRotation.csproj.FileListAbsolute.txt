@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\obj\Debug\net8.0\06.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\obj\Debug\net8.0\06.ArrayRotation.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\obj\Debug\net8.0\06.ArrayRotation.AssemblyInfo.cs
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\obj\Debug\net8.0\06.ArrayRotation.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\bin\Debug\net8.0\06.ArrayRotation.exe
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\bin\Debug\net8.0\06.ArrayRotation.deps.json
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\bin\Debug\net8.0\06.ArrayRotation.runtimeconfig.json
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\bin\Debug\net8.0\06.ArrayRotation.dll
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\bin\Debug\net8.0\06.ArrayRotation.pdb
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\obj\Debug\net8.0\06.ArrayRotation.dll
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\obj\Debug\net8.0\refint\06.ArrayRotation.dll
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\obj\Debug\net8.0\06.ArrayRotation.pdb
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\obj\Debug\net8.0\06.ArrayRotation.genruntimeconfig.cache
+C:\ProgrammingForQaJan\14.ArraysEx\06.ArrayRotation\obj\Debug\net8.0\ref\06.ArrayRotation.dll

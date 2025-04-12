@@ -1,0 +1,14 @@
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.AssemblyInfoInputs.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.AssemblyInfo.cs
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.csproj.CoreCompileInputs.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\bin\Debug\net8.0\02.FirstNNumbersSum.exe
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\bin\Debug\net8.0\02.FirstNNumbersSum.deps.json
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\bin\Debug\net8.0\02.FirstNNumbersSum.runtimeconfig.json
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\bin\Debug\net8.0\02.FirstNNumbersSum.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\bin\Debug\net8.0\02.FirstNNumbersSum.pdb
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\obj\Debug\net8.0\refint\02.FirstNNumbersSum.dll
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.pdb
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\obj\Debug\net8.0\02.FirstNNumbersSum.genruntimeconfig.cache
+C:\ProgrammingForQaJan\01.NumbersInRange\02.FirstNNumbersSum\obj\Debug\net8.0\ref\02.FirstNNumbersSum.dll

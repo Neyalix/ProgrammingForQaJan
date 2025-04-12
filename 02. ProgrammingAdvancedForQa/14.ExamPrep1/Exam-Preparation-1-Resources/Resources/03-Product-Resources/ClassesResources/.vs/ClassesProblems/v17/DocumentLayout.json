@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\14.ExamPrep1\\Exam-Preparation-1-Resources\\Resources\\03-Product-Resources\\ClassesResources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65311F7D-0C84-47A1-A13D-7221E4D11B42}|TestApp.Tests\\TestApp.Tests.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\14.examprep1\\exam-preparation-1-resources\\resources\\03-product-resources\\classesresources\\testapp.tests\\productinventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65311F7D-0C84-47A1-A13D-7221E4D11B42}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\productinventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3513F78E-4EF9-4BFE-BB98-16106F556700}|TestApp\\TestApp.csproj|c:\\programmingforqajan\\02. programmingadvancedforqa\\14.examprep1\\exam-preparation-1-resources\\resources\\03-product-resources\\classesresources\\testapp\\product\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3513F78E-4EF9-4BFE-BB98-16106F556700}|TestApp\\TestApp.csproj|solutionrelative:testapp\\product\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductInventory.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\14.ExamPrep1\\Exam-Preparation-1-Resources\\Resources\\03-Product-Resources\\ClassesResources\\TestApp\\Product\\ProductInventory.cs",
+              "RelativeDocumentMoniker": "TestApp\\Product\\ProductInventory.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\14.ExamPrep1\\Exam-Preparation-1-Resources\\Resources\\03-Product-Resources\\ClassesResources\\TestApp\\Product\\ProductInventory.cs",
+              "RelativeToolTip": "TestApp\\Product\\ProductInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:10:27.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductInventoryTests.cs",
+              "DocumentMoniker": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\14.ExamPrep1\\Exam-Preparation-1-Resources\\Resources\\03-Product-Resources\\ClassesResources\\TestApp.Tests\\ProductInventoryTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\ProductInventoryTests.cs",
+              "ToolTip": "C:\\ProgrammingForQaJan\\02. ProgrammingAdvancedForQa\\14.ExamPrep1\\Exam-Preparation-1-Resources\\Resources\\03-Product-Resources\\ClassesResources\\TestApp.Tests\\ProductInventoryTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\ProductInventoryTests.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:08:23.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
