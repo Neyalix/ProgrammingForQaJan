@@ -1,3 +1,15 @@
 [submodule "01.ProgrammingFundamentalsAndUnitTesting/03.Exercise1"]
 	path = 01.ProgrammingFundamentalsAndUnitTesting/03.Exercise1
 	url = https://github.com/Neyalix/ProgrammingForQaJan.git
+[submodule "01.ProgrammingFundamentalsAndUnitTesting/05.ComplexConStatementsLab"]
+	path = 01.ProgrammingFundamentalsAndUnitTesting/05.ComplexConStatementsLab
+	url = https://github.com/Neyalix/ProgrammingForQaJan.git
+[submodule "01.ProgrammingFundamentalsAndUnitTesting/NewRepo"]
+	path = 01.ProgrammingFundamentalsAndUnitTesting/NewRepo
+	url = https://github.com/Neyalix/ProgrammingForQaJan.git
+[submodule "01.ProgrammingFundamentalsAndUnitTesting/Repos/ProgrammingForQA"]
+	path = 01.ProgrammingFundamentalsAndUnitTesting/Repos/ProgrammingForQA
+	url = https://github.com/Neyalix/ProgrammingForQaJan.git
+[submodule "01.ProgrammingFundamentalsAndUnitTesting/Repos/newRepo"]
+	path = 01.ProgrammingFundamentalsAndUnitTesting/Repos/newRepo
+	url = https://github.com/Neyalix/ProgrammingForQaJan.git
